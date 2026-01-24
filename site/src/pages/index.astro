@@ -444,11 +444,15 @@ const types = Array.from(
           state.sortField = field;
           state.sortDirection = "asc";
         }
+        updateSortIndicators();
+        render();
+      }
+
+      function updateSortIndicators() {
         document.querySelectorAll("thead th").forEach((th) => {
           th.dataset.sort = th.dataset.field === state.sortField ? "active" : "";
           th.dataset.direction = state.sortDirection === "asc" ? "↑" : "↓";
         });
-        render();
       }
 
       document.getElementById("search").addEventListener("input", (event) => {
@@ -464,6 +468,7 @@ const types = Array.from(
       document.getElementById("sort").addEventListener("change", (event) => {
         state.sortField = event.target.value;
         state.sortDirection = "asc";
+        updateSortIndicators();
         render();
       });
 
@@ -475,6 +480,7 @@ const types = Array.from(
         document.getElementById("search").value = "";
         document.getElementById("type").value = "";
         document.getElementById("sort").value = "avg_rank";
+        updateSortIndicators();
         render();
       });
 
@@ -482,7 +488,8 @@ const types = Array.from(
         th.addEventListener("click", () => setSort(th.dataset.field));
       });
 
-      setSort(state.sortField);
+      updateSortIndicators();
+      render();
     </script>
   </body>
 </html>
