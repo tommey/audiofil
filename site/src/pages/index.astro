@@ -347,8 +347,8 @@ const types = Array.from(
       </section>
     </main>
 
-    <script>
-      const DATA = ${JSON.stringify(headphones)};
+    <script define:vars={{ headphones }}>
+      const DATA = headphones;
       const state = {
         query: "",
         type: "",
