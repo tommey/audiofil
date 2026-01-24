@@ -306,7 +306,7 @@ const types = Array.from(
           <div>
             <label for="sort">Sort by</label>
             <select id="sort">
-              <option value="avg_rank">Avg Rank</option>
+              <option value="avg_rank">Tier</option>
               <option value="sources">Sources</option>
               <option value="impedance_ohms">Impedance</option>
               <option value="driver_size_mm">Driver Size</option>
@@ -331,7 +331,7 @@ const types = Array.from(
             <thead>
               <tr>
                 <th data-field="headphone">Headphone</th>
-                <th data-field="avg_rank">Avg Rank</th>
+                <th data-field="avg_rank">Tier</th>
                 <th data-field="sources">Sources</th>
                 <th data-field="type">Type</th>
                 <th data-field="driver_type">Driver</th>
@@ -378,6 +378,15 @@ const types = Array.from(
         return value ? String(value).toLowerCase() : "";
       }
 
+      function formatTier(value) {
+        if (value === null || value === undefined || value === "") {
+          return "";
+        }
+        const tierLabels = ["S+", "S", "A", "B", "C", "D", "E", "F", "W", "X"];
+        const rounded = Math.round(Number(value));
+        return tierLabels[rounded] ?? "";
+      }
+
       function compareValues(a, b, field) {
         const aVal = a[field];
         const bVal = b[field];
@@ -422,7 +431,7 @@ const types = Array.from(
           tr.style.animationDelay = `${index * 0.012}s`;
           tr.innerHTML = `
             <td data-label="Headphone">${row.headphone ?? ""}</td>
-            <td data-label="Avg Rank">${row.avg_rank ?? ""}</td>
+            <td data-label="Tier">${formatTier(row.avg_rank)}</td>
             <td data-label="Sources">${row.sources ?? ""}</td>
             <td data-label="Type">${row.type ?? ""}</td>
             <td data-label="Driver">${row.driver_type ?? ""}</td>
