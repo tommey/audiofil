@@ -1,11 +1,13 @@
-# Audiofil Tier CSVs
+# Audiofil Tier Data
 
-This folder contains headphone tier listings in CSV format, plus derived files where tiers are mapped to numeric ranks and aggregated across sources.
+This repository contains headphone tier listings in CSV format, derived rankings, and an expanded specs table used for a filterable data table site.
 
-## Files
-- `dms.csv`, `goldensound.csv`, `resolve.csv`: original tier listings with text tiers.
-- `*_ranked.csv`: same data with the `tier` column mapped to numeric ranks.
-- `ranked.csv`: aggregate average ranks across sources.
+## Structure
+- `data/raw/`: original tier listings with text tiers (e.g., `dms.csv`, `resolve.csv`).
+- `data/ranked/`: ranked outputs, including `ranked.csv` aggregate and per-source `*_ranked.csv`.
+- `data/specs/`: canonical specs table (`headphones_specs.csv`) keyed by `headphone`.
+- `data/exports/`: generated outputs for the site (e.g., `headphones_full.json`).
+- `scripts/`: data build scripts (e.g., `scripts/build_exports.py`).
 
 ## Tier mapping
 - S+ = 0
@@ -19,15 +21,48 @@ This folder contains headphone tier listings in CSV format, plus derived files w
 - X(Not Heard) / X (Not Heard) = 8
 
 ## Aggregate methodology
-- `ranked.csv` averages available sources per headphone (sum of ranks / number of sources present).
+- `data/ranked/ranked.csv` averages available sources per headphone (sum of ranks / number of sources present).
 - `sources` column indicates how many lists contributed to the average.
 
 ## Columns
-Each CSV has two columns:
+Source CSVs (`data/raw/*.csv`) contain two columns:
 - `tier`
 - `headphone`
 
-`ranked.csv` has three columns:
+Ranked CSVs (`data/ranked/*.csv`) contain:
+- `tier`
+- `headphone`
+
+Aggregate CSV (`data/ranked/ranked.csv`) contains:
 - `headphone`
 - `avg_rank`
 - `sources`
+
+Specs CSV (`data/specs/headphones_specs.csv`) contains:
+- `headphone`
+- `brand`
+- `model`
+- `variant`
+- `type`
+- `driver_type`
+- `driver_size_mm`
+- `impedance_ohms`
+- `sensitivity_db_mw`
+- `frequency_response_hz`
+- `weight_g`
+- `cable_detachable`
+- `connector`
+- `origin`
+- `msrp_usd`
+- `release_year`
+- `notes`
+- `source_url`
+
+## Data exports
+Run `python3 scripts/build_exports.py` to generate `data/exports/headphones_full.json` by merging ranked data with specs.
+
+## Site
+The Astro site lives in `site/` and reads `data/exports/headphones_full.json`.
+- Install: `cd site && npm install`
+- Dev server: `npm run dev`
+- Build: `npm run build`

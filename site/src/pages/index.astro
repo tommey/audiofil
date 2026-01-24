@@ -1,0 +1,488 @@
+---
+import fs from "node:fs";
+
+const dataUrl = new URL("../../../data/exports/headphones_full.json", import.meta.url);
+const headphones = JSON.parse(fs.readFileSync(dataUrl, "utf-8"));
+const types = Array.from(
+  new Set(headphones.map((row) => row.type).filter(Boolean))
+).sort((a, b) => a.localeCompare(b));
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Audiofil Headphones Table</title>
+    <meta
+      name="description"
+      content="Filterable, sortable headphone rankings with specs and source coverage."
+    />
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Space+Grotesk:wght@400;500;600;700&display=swap");
+
+      :root {
+        color-scheme: light;
+        --bg: #f7f4ef;
+        --ink: #151410;
+        --muted: #5e5a52;
+        --accent: #d5a24a;
+        --accent-dark: #9a6a1f;
+        --card: #fffaf1;
+        --border: rgba(21, 20, 16, 0.12);
+        --shadow: 0 20px 60px rgba(21, 20, 16, 0.12);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: "Space Grotesk", sans-serif;
+        color: var(--ink);
+        background: radial-gradient(circle at top, #fdf7ec, var(--bg));
+        min-height: 100vh;
+      }
+
+      main {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 48px 20px 64px;
+      }
+
+      header {
+        display: grid;
+        gap: 16px;
+        animation: float-in 0.8s ease-out both;
+      }
+
+      h1 {
+        font-family: "Fraunces", serif;
+        font-size: clamp(2.4rem, 4vw, 3.6rem);
+        margin: 0;
+      }
+
+      .subtitle {
+        color: var(--muted);
+        max-width: 720px;
+        line-height: 1.6;
+        margin: 0;
+      }
+
+      .badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        font-size: 0.85rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        background: var(--ink);
+        color: #fff;
+        padding: 8px 12px;
+        border-radius: 999px;
+        width: max-content;
+      }
+
+      .panel {
+        margin-top: 32px;
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 24px;
+        padding: 24px;
+        box-shadow: var(--shadow);
+        position: relative;
+        overflow: hidden;
+      }
+
+      .panel::before {
+        content: "";
+        position: absolute;
+        inset: -40% 40% auto -20%;
+        height: 220px;
+        background: linear-gradient(120deg, rgba(213, 162, 74, 0.3), transparent);
+        border-radius: 50%;
+        pointer-events: none;
+      }
+
+      .controls {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 16px;
+        margin-bottom: 20px;
+      }
+
+      label {
+        font-size: 0.85rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: var(--muted);
+        display: block;
+        margin-bottom: 6px;
+      }
+
+      input,
+      select,
+      button {
+        width: 100%;
+        padding: 12px 14px;
+        border-radius: 12px;
+        border: 1px solid var(--border);
+        font-family: inherit;
+        font-size: 1rem;
+        background: #fff;
+        color: var(--ink);
+      }
+
+      button {
+        background: var(--accent);
+        border: none;
+        color: var(--ink);
+        font-weight: 600;
+        cursor: pointer;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+      }
+
+      button:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 8px 20px rgba(213, 162, 74, 0.25);
+      }
+
+      .meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 12px;
+      }
+
+      .count {
+        font-size: 0.95rem;
+        color: var(--muted);
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.95rem;
+      }
+
+      thead th {
+        text-align: left;
+        font-weight: 600;
+        border-bottom: 1px solid var(--border);
+        padding: 12px 10px;
+        cursor: pointer;
+        position: relative;
+      }
+
+      thead th[data-sort="active"]::after {
+        content: attr(data-direction);
+        font-size: 0.7rem;
+        color: var(--accent-dark);
+        margin-left: 6px;
+      }
+
+      tbody td {
+        padding: 12px 10px;
+        border-bottom: 1px solid rgba(21, 20, 16, 0.08);
+      }
+
+      tbody tr {
+        animation: row-in 0.4s ease-out both;
+      }
+
+      .pill {
+        display: inline-block;
+        padding: 4px 10px;
+        border-radius: 999px;
+        background: rgba(213, 162, 74, 0.2);
+        color: var(--accent-dark);
+        font-size: 0.8rem;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+      }
+
+      .empty {
+        text-align: center;
+        padding: 32px 12px;
+        color: var(--muted);
+      }
+
+      @keyframes float-in {
+        from {
+          opacity: 0;
+          transform: translateY(12px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      @keyframes row-in {
+        from {
+          opacity: 0;
+          transform: translateY(6px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      @media (max-width: 720px) {
+        .panel {
+          padding: 18px;
+        }
+
+        thead {
+          display: none;
+        }
+
+        table,
+        tbody,
+        tr,
+        td {
+          display: block;
+          width: 100%;
+        }
+
+        tbody tr {
+          border: 1px solid var(--border);
+          border-radius: 16px;
+          margin-bottom: 12px;
+          padding: 12px;
+          background: #fff;
+        }
+
+        tbody td {
+          border: none;
+          padding: 6px 0;
+        }
+
+        tbody td::before {
+          content: attr(data-label);
+          display: block;
+          font-size: 0.7rem;
+          text-transform: uppercase;
+          letter-spacing: 0.08em;
+          color: var(--muted);
+          margin-bottom: 4px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <span class="badge">Audiofil Data Lab</span>
+        <h1>Headphone Rankings & Specs</h1>
+        <p class="subtitle">
+          Explore aggregated tier rankings and detailed specs. Filter by type, search by
+          name, and sort by rank or technical attributes.
+        </p>
+      </header>
+
+      <section class="panel">
+        <div class="controls">
+          <div>
+            <label for="search">Search</label>
+            <input id="search" type="search" placeholder="Brand, model, or keyword" />
+          </div>
+          <div>
+            <label for="type">Type</label>
+            <select id="type">
+              <option value="">All types</option>
+              {types.map((type) => <option value={type}>{type}</option>)}
+            </select>
+          </div>
+          <div>
+            <label for="sort">Sort by</label>
+            <select id="sort">
+              <option value="avg_rank">Avg Rank</option>
+              <option value="sources">Sources</option>
+              <option value="impedance_ohms">Impedance</option>
+              <option value="driver_size_mm">Driver Size</option>
+              <option value="weight_g">Weight</option>
+              <option value="msrp_usd">MSRP</option>
+              <option value="release_year">Release Year</option>
+            </select>
+          </div>
+          <div>
+            <label>&nbsp;</label>
+            <button id="reset" type="button">Reset filters</button>
+          </div>
+        </div>
+
+        <div class="meta">
+          <div class="count" id="count"></div>
+          <div class="pill">Data synced from ranked + specs tables</div>
+        </div>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th data-field="headphone">Headphone</th>
+                <th data-field="avg_rank">Avg Rank</th>
+                <th data-field="sources">Sources</th>
+                <th data-field="type">Type</th>
+                <th data-field="driver_type">Driver</th>
+                <th data-field="driver_size_mm">Driver mm</th>
+                <th data-field="impedance_ohms">Ohms</th>
+                <th data-field="sensitivity_db_mw">Sensitivity</th>
+                <th data-field="weight_g">Weight g</th>
+                <th data-field="msrp_usd">MSRP</th>
+                <th data-field="release_year">Year</th>
+              </tr>
+            </thead>
+            <tbody id="rows"></tbody>
+          </table>
+          <div class="empty" id="empty" hidden>No results. Try a broader search.</div>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      const DATA = ${JSON.stringify(headphones)};
+      const state = {
+        query: "",
+        type: "",
+        sortField: "avg_rank",
+        sortDirection: "asc",
+      };
+
+      const rowsEl = document.getElementById("rows");
+      const countEl = document.getElementById("count");
+      const emptyEl = document.getElementById("empty");
+
+      const numericFields = new Set([
+        "avg_rank",
+        "sources",
+        "driver_size_mm",
+        "impedance_ohms",
+        "sensitivity_db_mw",
+        "weight_g",
+        "msrp_usd",
+        "release_year",
+      ]);
+
+      function normalize(value) {
+        return value ? String(value).toLowerCase() : "";
+      }
+
+      function compareValues(a, b, field) {
+        const aVal = a[field];
+        const bVal = b[field];
+
+        if (aVal === null || aVal === undefined || aVal === "") {
+          return 1;
+        }
+        if (bVal === null || bVal === undefined || bVal === "") {
+          return -1;
+        }
+
+        if (numericFields.has(field)) {
+          return aVal - bVal;
+        }
+        return String(aVal).localeCompare(String(bVal));
+      }
+
+      function applyFilters() {
+        const query = normalize(state.query);
+        return DATA.filter((row) => {
+          const matchesType = state.type ? row.type === state.type : true;
+          if (!matchesType) return false;
+
+          if (!query) return true;
+          const haystack = [row.headphone, row.brand, row.model, row.variant, row.notes]
+            .map(normalize)
+            .join(" ");
+          return haystack.includes(query);
+        });
+      }
+
+      function render() {
+        const filtered = applyFilters();
+        const sorted = filtered.sort((a, b) => {
+          const result = compareValues(a, b, state.sortField);
+          return state.sortDirection === "asc" ? result : -result;
+        });
+
+        rowsEl.innerHTML = "";
+        sorted.forEach((row, index) => {
+          const tr = document.createElement("tr");
+          tr.style.animationDelay = `${index * 0.012}s`;
+          tr.innerHTML = `
+            <td data-label="Headphone">${row.headphone ?? ""}</td>
+            <td data-label="Avg Rank">${row.avg_rank ?? ""}</td>
+            <td data-label="Sources">${row.sources ?? ""}</td>
+            <td data-label="Type">${row.type ?? ""}</td>
+            <td data-label="Driver">${row.driver_type ?? ""}</td>
+            <td data-label="Driver mm">${row.driver_size_mm ?? ""}</td>
+            <td data-label="Ohms">${row.impedance_ohms ?? ""}</td>
+            <td data-label="Sensitivity">${row.sensitivity_db_mw ?? ""}</td>
+            <td data-label="Weight g">${row.weight_g ?? ""}</td>
+            <td data-label="MSRP">${row.msrp_usd ?? ""}</td>
+            <td data-label="Year">${row.release_year ?? ""}</td>
+          `;
+          rowsEl.appendChild(tr);
+        });
+
+        countEl.textContent = `${sorted.length.toLocaleString()} headphones`;
+        emptyEl.hidden = sorted.length !== 0;
+      }
+
+      function setSort(field) {
+        if (state.sortField === field) {
+          state.sortDirection = state.sortDirection === "asc" ? "desc" : "asc";
+        } else {
+          state.sortField = field;
+          state.sortDirection = "asc";
+        }
+        document.querySelectorAll("thead th").forEach((th) => {
+          th.dataset.sort = th.dataset.field === state.sortField ? "active" : "";
+          th.dataset.direction = state.sortDirection === "asc" ? "↑" : "↓";
+        });
+        render();
+      }
+
+      document.getElementById("search").addEventListener("input", (event) => {
+        state.query = event.target.value;
+        render();
+      });
+
+      document.getElementById("type").addEventListener("change", (event) => {
+        state.type = event.target.value;
+        render();
+      });
+
+      document.getElementById("sort").addEventListener("change", (event) => {
+        state.sortField = event.target.value;
+        state.sortDirection = "asc";
+        render();
+      });
+
+      document.getElementById("reset").addEventListener("click", () => {
+        state.query = "";
+        state.type = "";
+        state.sortField = "avg_rank";
+        state.sortDirection = "asc";
+        document.getElementById("search").value = "";
+        document.getElementById("type").value = "";
+        document.getElementById("sort").value = "avg_rank";
+        render();
+      });
+
+      document.querySelectorAll("thead th").forEach((th) => {
+        th.addEventListener("click", () => setSort(th.dataset.field));
+      });
+
+      setSort(state.sortField);
+    </script>
+  </body>
+</html>
