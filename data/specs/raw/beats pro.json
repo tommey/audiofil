@@ -2,7 +2,7 @@
   "rank_key": "beats pro",
   "product_name": "Beats Pro",
   "page_title": "Beats by Dr. Dre Beats Pro",
-  "source_url": "https://www.bhphotovideo.com/c/product/795582-REG/Beats_by_Dr_Dre_900_00003_01_Beats_By_Dr_Dre.html",
+  "source_url": "https://reference-audio-analyzer.pro/en/report/hp/monster-beats-pro.php",
   "specs": [
     {
       "label": "Style",
@@ -35,6 +35,10 @@
     {
       "label": "Driver size",
       "value": "50 mm"
+    },
+    {
+      "label": "Impedance (measured avg 40Hz-15kHz)",
+      "value": "~19.5 ohm (avg; L 18.7 / R 20.2)"
     }
   ]
 }

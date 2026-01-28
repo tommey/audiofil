@@ -35,6 +35,10 @@
     {
       "label": "Driver size",
       "value": "76 x 51 mm"
+    },
+    {
+      "label": "Impedance (Headfonia)",
+      "value": "23 ohms"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "rank_key": "aeon 2 noire",
   "product_name": "ÆON 2 Noire",
   "page_title": "ÆON 2 Noire",
-  "source_url": "https://danclarkaudio.com/aeon-2-noir.html",
+  "source_url": "https://www.headamp.com/products/dan-clark-aeon-2-noire",
   "specs": [
     {
       "label": "Price",
@@ -51,6 +51,14 @@
     {
       "label": "Notes",
       "value": "TrueFlow V2 motor, V-Planar driver processing, folding gimbal, lightweight titanium/aluminum/carbon construction"
+    },
+    {
+      "label": "Impedance (HeadAmp spec)",
+      "value": "13 ohms"
+    },
+    {
+      "label": "Driver size",
+      "value": "62 x 34 mm"
     }
   ]
 }

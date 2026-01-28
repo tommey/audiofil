@@ -2,7 +2,7 @@
   "page_title": "SR1a Earfield Monitor - RAAL-requisite",
   "product_name": "RAAL-requisite SR1a",
   "rank_key": "sr1a",
-  "source_url": "https://raalrequisite.com/products/sr1a-earfield-monitors",
+  "source_url": "https://www.headamp.com/products/raal-sr1a",
   "specs": [
     {
       "label": "Type",
@@ -15,6 +15,10 @@
     {
       "label": "Driver size",
       "value": "20 mm (ribbon width)"
+    },
+    {
+      "label": "Impedance (HeadAmp spec)",
+      "value": "0.2 ohms (with cabling)"
     }
   ]
 }
