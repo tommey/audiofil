@@ -17,6 +17,7 @@
 - Indentation: use standard CSV formatting with comma-separated columns and a single header row.
 - Naming: source files are lowercase provider names (`data/raw/dms.csv`), derived ranked files add `_ranked` (`data/ranked/dms_ranked.csv`).
 - Keep columns consistent: source files must contain `tier,headphone`; aggregate file must contain `headphone,avg_rank,sources`.
+- Specs file uses `rank_key` to match ranked data and `headphone` as the full vendor + model name.
 
 ## Testing Guidelines
 - No automated tests are configured. Manually verify:
@@ -35,3 +36,5 @@
 ## Data Updates & Outputs
 - When adding or updating CSV/HTML outputs, refresh `README.md` so the file list and methodology remain accurate.
 - Keep HTML outputs aligned with their CSV sources and naming patterns.
+- Use manufacturer product pages as the source for specs, and store the URL in `source_url`.
+- Store the raw manufacturer exports in `data/specs/raw/<rank_key>.json` (include `product_name`, `page_title`, `source_url`, and `specs`) so the canonical CSV can be rebuilt later without re-scraping.

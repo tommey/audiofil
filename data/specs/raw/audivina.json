@@ -1,0 +1,28 @@
+{
+  "rank_key": "audivina",
+  "product_name": "HiFiMAN AUDIVINA",
+  "page_title": "HIFIMAN Home",
+  "source_url": "https://www.hifiman.cn/products/detail/301",
+  "specs": [
+    {
+      "label": "Price",
+      "value": "CNY 12888.00"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 Hz - 55 kHz"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "97 dB"
+    },
+    {
+      "label": "Impedance",
+      "value": "20 Ohms"
+    },
+    {
+      "label": "Weight",
+      "value": "470 g"
+    }
+  ]
+}

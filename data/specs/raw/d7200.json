@@ -1,0 +1,16 @@
+{
+  "rank_key": "d7200",
+  "product_name": "Denon AH-D7200",
+  "page_title": "Denon AH-D7200 Reference Quality Over-Ear Headphones",
+  "source_url": "https://www.av.com/Headphones/Denon-AH-D7200-Reference-Quality-Over-Ear-Headphones/4DAM",
+  "specs": [
+    {"label":"Type","value":"Closed-back dynamic"},
+    {"label":"Driver diameter","value":"50 mm"},
+    {"label":"Impedance","value":"25 ohm"},
+    {"label":"Sensitivity","value":"105 dB/mW"},
+    {"label":"Frequency response","value":"5 - 55,000 Hz"},
+    {"label":"Weight","value":"385 g"},
+    {"label":"Cable length","value":"3.0 m"},
+    {"label":"Plug","value":"6.3 mm (player), dual 3.5 mm (headphones)"}
+  ]
+}

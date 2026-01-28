@@ -1,0 +1,36 @@
+{
+  "rank_key": "caldera",
+  "product_name": "ZMF Caldera",
+  "page_title": "Caldera - ZMF Headphones",
+  "source_url": "https://shop.zmfheadphones.com/products/caldera",
+  "specs": [
+    {
+      "label": "Price",
+      "value": "$3,499.99"
+    },
+    {
+      "label": "Impedance",
+      "value": "60 Ohms"
+    },
+    {
+      "label": "Driver",
+      "value": "80 mm planar magnetic"
+    },
+    {
+      "label": "Weight",
+      "value": "490 g - 550 g"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "~95 dB/mW"
+    },
+    {
+      "label": "Pad Bundle Options",
+      "value": "Caldera lambskin thin (installed); Caldera lambskin ultra perf; Caldera suede thin perf"
+    },
+    {
+      "label": "Includes",
+      "value": "Caldera headphone; ZMF stock braided cable; Caldera pads (installed); secondary pads; ZMF owner's card; ZMF clamshell case; lifetime driver warranty"
+    }
+  ]
+}

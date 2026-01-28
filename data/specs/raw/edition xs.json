@@ -1,0 +1,36 @@
+{
+  "page_title": "HIFIMAN Edition XS Planar Magnetic Headphones | HeadAmp",
+  "product_name": "HIFIMAN Edition XS",
+  "rank_key": "edition xs",
+  "source_url": "https://www.headamp.com/products/hifiman-edition-xs",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Open-back, over-ear"
+    },
+    {
+      "label": "Driver",
+      "value": "Planar magnetic (Stealth Magnet / NsD driver per product description)"
+    },
+    {
+      "label": "Impedance",
+      "value": "18 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "92 dB"
+    },
+    {
+      "label": "Frequency response",
+      "value": "8 Hz - 50 kHz"
+    },
+    {
+      "label": "Weight",
+      "value": "405 g"
+    },
+    {
+      "label": "Cable",
+      "value": "Detachable; dual 3.5 mm entry sockets; cable terminated to 3.5mm with 1/4\" adapter (included)"
+    }
+  ]
+}

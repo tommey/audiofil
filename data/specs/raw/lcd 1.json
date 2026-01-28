@@ -1,0 +1,36 @@
+{
+  "page_title": "LCD-1 | Audeze",
+  "product_name": "Audeze LCD-1",
+  "rank_key": "lcd 1",
+  "source_url": "https://www.audeze.com/products/lcd-1",
+  "specs": [
+    {
+      "label": "Style",
+      "value": "Over-ear, open-back"
+    },
+    {
+      "label": "Transducer type",
+      "value": "Planar Magnetic"
+    },
+    {
+      "label": "Impedance",
+      "value": "16 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "99 dB/1mW (at Drum Reference Point)"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10Hz - 50kHz"
+    },
+    {
+      "label": "Maximum SPL",
+      "value": ">120dB"
+    },
+    {
+      "label": "Weight",
+      "value": "250 g"
+    }
+  ]
+}

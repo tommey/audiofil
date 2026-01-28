@@ -1,0 +1,44 @@
+{
+  "page_title": "Hemp Headphone",
+  "product_name": "Grado Hemp Headphone",
+  "rank_key": "grade hemp",
+  "source_url": "https://gradolabs.com/products/hemp-headphone",
+  "specs": [
+    {
+      "label": "Transducer type",
+      "value": "Dynamic"
+    },
+    {
+      "label": "Operating principle",
+      "value": "Open air"
+    },
+    {
+      "label": "Frequency response",
+      "value": "13 - 28,000 Hz"
+    },
+    {
+      "label": "SPL 1mW",
+      "value": "99.8 dB"
+    },
+    {
+      "label": "Nominal impedance",
+      "value": "38 ohms"
+    },
+    {
+      "label": "Driver matched dB",
+      "value": "0.05 dB"
+    },
+    {
+      "label": "Included accessories",
+      "value": "Warranty; Grado story-sheet"
+    },
+    {
+      "label": "Cable",
+      "value": "18 ft (approx. 5.5 m) 4-conductor cable"
+    },
+    {
+      "label": "Plug",
+      "value": "6.3 mm (1/4\")"
+    }
+  ]
+}

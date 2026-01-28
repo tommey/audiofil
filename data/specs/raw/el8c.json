@@ -1,0 +1,64 @@
+{
+  "rank_key": "el8c",
+  "product_name": "EL-8 Closed Back",
+  "page_title": "EL-8 Closed Back - Audeze",
+  "source_url": "https://www.audeze.com/products/el-8-closed-back",
+  "specs": [
+    {
+      "label": "Style",
+      "value": "Over-ear, closed-back"
+    },
+    {
+      "label": "Transducer type",
+      "value": "Planar Magnetic"
+    },
+    {
+      "label": "Magnetic structure",
+      "value": "Fluxor\u2122 magnet array"
+    },
+    {
+      "label": "Phase management",
+      "value": "Fazor\u2122"
+    },
+    {
+      "label": "Acoustic management",
+      "value": "Double-sided magnet array with double-sided Fazor elements"
+    },
+    {
+      "label": "Diaphragm type",
+      "value": "Ultra-Thin Uniforce\u2122"
+    },
+    {
+      "label": "Driver size",
+      "value": "100 mm"
+    },
+    {
+      "label": "Maximum power handling",
+      "value": "3W RMS"
+    },
+    {
+      "label": "Maximum SPL",
+      "value": ">130 dB"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10Hz - 50kHz"
+    },
+    {
+      "label": "THD",
+      "value": "<0.1% @ 100dB"
+    },
+    {
+      "label": "Impedance",
+      "value": "30 ohms"
+    },
+    {
+      "label": "Efficiency",
+      "value": "98 dB/1mW at drum reference point"
+    },
+    {
+      "label": "Weight",
+      "value": "540 g"
+    }
+  ]
+}

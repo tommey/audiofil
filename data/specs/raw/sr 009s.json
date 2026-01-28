@@ -1,0 +1,36 @@
+{
+  "page_title": "SR-009S | STAX",
+  "product_name": "STAX SR-009S",
+  "rank_key": "sr 009s",
+  "source_url": "https://stax.jp/archives/5050",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Earspeaker (electrostatic, push-pull)"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 - 42,000 Hz"
+    },
+    {
+      "label": "Capacitance",
+      "value": "110 pF (including cable)"
+    },
+    {
+      "label": "Impedance",
+      "value": "145,000 ohms (including cable) at 10kHz"
+    },
+    {
+      "label": "Sound pressure level",
+      "value": "101 dB/100V rms at 1kHz"
+    },
+    {
+      "label": "Bias voltage",
+      "value": "580V DC"
+    },
+    {
+      "label": "Mass",
+      "value": "454 g (including cable)"
+    }
+  ]
+}

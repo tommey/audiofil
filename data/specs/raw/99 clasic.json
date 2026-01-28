@@ -1,0 +1,52 @@
+{
+  "rank_key": "99 clasic",
+  "product_name": "99 Classics",
+  "page_title": "99 Classics",
+  "source_url": "https://www.xn--bester-kopfhrer-ktb.de/pages/99-classics",
+  "specs": [
+    {
+      "label": "Driver Type",
+      "value": "Dynamic"
+    },
+    {
+      "label": "Maximum Input Power",
+      "value": "50 mW"
+    },
+    {
+      "label": "Driver Size",
+      "value": "40 mm"
+    },
+    {
+      "label": "Input Connector",
+      "value": "Dual 3.5 mm TS Jack"
+    },
+    {
+      "label": "Frequency Range",
+      "value": "15 Hz - 25 kHz"
+    },
+    {
+      "label": "Total Harmonic Distortion",
+      "value": "<0.1% at 1 kHz"
+    },
+    {
+      "label": "Impedance",
+      "value": "32 \u03a9"
+    },
+    {
+      "label": "Ear Cups",
+      "value": "Walnut wood"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "103 dB SPL/mW at 1 kHz"
+    },
+    {
+      "label": "Weight",
+      "value": "260 g (9.17 oz.)"
+    },
+    {
+      "label": "Rated Input Power",
+      "value": "30 mW"
+    }
+  ]
+}

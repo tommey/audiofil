@@ -1,0 +1,44 @@
+{
+  "page_title": "TAKET, Polymer piezo-electric Headphone, H2+",
+  "product_name": "TAKET H2+",
+  "rank_key": "h2plus",
+  "source_url": "https://taket.jp/japanese/h2/h2.html",
+  "specs": [
+    {
+      "label": "Drive method",
+      "value": "Polymer piezoelectric Heil type drive + external BP (super-tweeter)"
+    },
+    {
+      "label": "Type",
+      "value": "Open-air"
+    },
+    {
+      "label": "Reproduction frequency",
+      "value": "10 Hz to 100 kHz or more"
+    },
+    {
+      "label": "Maximum input power",
+      "value": "10 W + 10 W"
+    },
+    {
+      "label": "Maximum input current",
+      "value": "20 mA + 20 mA"
+    },
+    {
+      "label": "Impedance",
+      "value": "Approx. 4 kOhm or more"
+    },
+    {
+      "label": "Mass",
+      "value": "Approx. 320 g"
+    },
+    {
+      "label": "Connector",
+      "value": "Gold-plated 4-pin male XLR connector"
+    },
+    {
+      "label": "Headband",
+      "value": "Stainless spring head belt"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "page_title": "Spirit Torino Twin Pulse | HeadAmp",
+  "product_name": "Spirit Torino Twin Pulse",
+  "rank_key": "twin pulse",
+  "source_url": "https://www.headamp.com/products/spirit-twin-pulse",
+  "specs": [
+    {
+      "label": "Headphone type",
+      "value": "Open circumaural"
+    },
+    {
+      "label": "Technology",
+      "value": "Twin Pulse isobaric System"
+    },
+    {
+      "label": "Max power handling",
+      "value": "4,000 mW"
+    },
+    {
+      "label": "Impedance",
+      "value": "64 ohm"
+    },
+    {
+      "label": "Frequency response",
+      "value": "24-28,000 Hz (calibrated on isophonic curves)"
+    },
+    {
+      "label": "Weight",
+      "value": "540 g (without cable)"
+    },
+    {
+      "label": "Cable",
+      "value": "2.2 m fixed welded silver cable"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "page_title": "NDH 20 - Neumann",
+  "product_name": "Neumann NDH 20",
+  "rank_key": "ndh 20",
+  "source_url": "https://www.neumann.com/en-at/products/headphones/ndh-20",
+  "specs": [
+    {
+      "label": "Transducer diameter",
+      "value": "38 mm"
+    },
+    {
+      "label": "Nominal impedance",
+      "value": "150 Ohms"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 ... 30,000 Hz"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "114 dB SPL (1 kHz, 1 Vrms)"
+    },
+    {
+      "label": "Max input power handling",
+      "value": "1000 mW"
+    },
+    {
+      "label": "THD",
+      "value": "<0.10% (1 kHz and 100 dB SPL)"
+    },
+    {
+      "label": "Weight excluding cable",
+      "value": "390 g"
+    },
+    {
+      "label": "Detachable cable",
+      "value": "Yes"
+    },
+    {
+      "label": "Connectivity",
+      "value": "3.5 mm TRS + 6.3 mm adapter"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "page_title": "Utopia - Reference open-back hi-fi headphones | Focal",
+  "product_name": "Focal Utopia",
+  "rank_key": "utopia",
+  "source_url": "https://www.focal.com/products/utopia",
+  "specs": [
+    {
+      "label": "Product type",
+      "value": "Open-back headphones"
+    },
+    {
+      "label": "Loudspeakers",
+      "value": "40mm pure Beryllium M-shaped dome"
+    },
+    {
+      "label": "Frequency response (+/- 3dB)",
+      "value": "5 Hz \u2013 50 kHz"
+    },
+    {
+      "label": "Impedance",
+      "value": "80 \u03a9"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "104 dB SPL / 1 mW @ 1 kHz"
+    },
+    {
+      "label": "Weight",
+      "value": "490 g"
+    }
+  ]
+}

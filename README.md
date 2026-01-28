@@ -39,6 +39,7 @@ Aggregate CSV (`data/ranked/ranked.csv`) contains:
 - `sources`
 
 Specs CSV (`data/specs/headphones_specs.csv`) contains:
+- `rank_key` (matches `data/ranked/ranked.csv` headphone values)
 - `headphone`
 - `brand`
 - `model`
@@ -58,8 +59,13 @@ Specs CSV (`data/specs/headphones_specs.csv`) contains:
 - `notes`
 - `source_url`
 
+## Spec data workflow
+- `data/specs/raw/` stores the raw manufacturer output for each entry as a JSON file named after the tier list key. Keep `product_name`, `page_title`, `source_url`, and the spec list inside that file so a later pass can rehydrate new columns without revisiting every page.
+- `data/specs/headphones_specs.csv` is the canonical table that gets merged with `data/ranked/ranked.csv`. The `headphone` column here must contain the full vendor + model name, but you can keep `brand`, `model`, and `variant` separate for future flexibility.
+- After you add or refresh the raw JSON and update the CSV, rerun `python3 scripts/build_exports.py` to regenerate `data/exports/headphones_full.json`.
+
 ## Data exports
-Run `python3 scripts/build_exports.py` to generate `data/exports/headphones_full.json` by merging ranked data with specs.
+Run `python3 scripts/build_exports.py` to generate `data/exports/headphones_full.json` by merging ranked data with specs (matched on `rank_key`).
 
 ## Site
 The Astro site lives in `site/` and reads `data/exports/headphones_full.json`.

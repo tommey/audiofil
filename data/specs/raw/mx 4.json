@@ -1,0 +1,48 @@
+{
+  "page_title": "Audeze LCD-MX4 Specs (B&H)",
+  "product_name": "Audeze LCD-MX4",
+  "rank_key": "mx 4",
+  "source_url": "https://www.bhphotovideo.com/c/product/1806697-REG/audeze_100_mx_1015_01_lcd_mx4_headphones.html",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Open-back, over-ear"
+    },
+    {
+      "label": "Driver type",
+      "value": "Planar"
+    },
+    {
+      "label": "Driver size",
+      "value": "106 mm"
+    },
+    {
+      "label": "Impedance",
+      "value": "20 Ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "105 dB/mW"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10 Hz to 50 kHz"
+    },
+    {
+      "label": "Max SPL",
+      "value": "130 dB"
+    },
+    {
+      "label": "Cable",
+      "value": "Detachable, straight, 1.9 m"
+    },
+    {
+      "label": "Connector",
+      "value": "1x 1/4\" TRS"
+    },
+    {
+      "label": "Weight",
+      "value": "575 g"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "page_title": "Valkyria Titanium \u2013 Spirit Torino",
+  "product_name": "Spirit Torino Valkyria",
+  "rank_key": "valkyria",
+  "source_url": "https://www.spirittorino.com/en-us/products/valkyria-titanium",
+  "specs": [
+    {
+      "label": "Headphone type",
+      "value": "Open back"
+    },
+    {
+      "label": "Technology",
+      "value": "Twin Pulse isobaric System Titanium"
+    },
+    {
+      "label": "Impedance",
+      "value": "64 ohm"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "96 dB"
+    },
+    {
+      "label": "Frequency response",
+      "value": "18-35,000 Hz"
+    },
+    {
+      "label": "Max power handling",
+      "value": "4,000 mW"
+    },
+    {
+      "label": "Cable length",
+      "value": "2 m integrated cable double copper + silver"
+    },
+    {
+      "label": "Weight",
+      "value": "620 g"
+    }
+  ]
+}

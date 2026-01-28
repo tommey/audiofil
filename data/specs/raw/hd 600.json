@@ -1,0 +1,44 @@
+{
+  "page_title": "Sennheiser HD 600 (Sweetwater)",
+  "product_name": "Sennheiser HD 600",
+  "rank_key": "hd 600",
+  "source_url": "https://www.sweetwater.com/store/detail/HD600--sennheiser-hd-600-open-back-audiophile-and-reference-headphones",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Open-back, over-ear"
+    },
+    {
+      "label": "Driver type",
+      "value": "Dynamic"
+    },
+    {
+      "label": "Driver size",
+      "value": "42 mm"
+    },
+    {
+      "label": "Impedance",
+      "value": "300 ohms"
+    },
+    {
+      "label": "Frequency response",
+      "value": "12 Hz - 40 kHz"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "97 dB (1 mW)"
+    },
+    {
+      "label": "Weight",
+      "value": "260 g"
+    },
+    {
+      "label": "Cable",
+      "value": "3 m detachable"
+    },
+    {
+      "label": "Connector",
+      "value": "1/4\" with 3.5mm adapter"
+    }
+  ]
+}

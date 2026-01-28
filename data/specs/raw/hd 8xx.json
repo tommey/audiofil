@@ -1,0 +1,44 @@
+{
+  "page_title": "Sennheiser HD 8xx Headphones | Drop",
+  "product_name": "Drop + Sennheiser HD 8XX",
+  "rank_key": "hd 8xx",
+  "source_url": "https://drop.com/buy/drop-sennheiser-hd-8xx-headphones",
+  "specs": [
+    {
+      "label": "Headphone type",
+      "value": "Open-back"
+    },
+    {
+      "label": "Ear coupling",
+      "value": "Over-ear"
+    },
+    {
+      "label": "Drivers",
+      "value": "56 mm ring radiator dynamic drivers"
+    },
+    {
+      "label": "Impedance",
+      "value": "300 ohms"
+    },
+    {
+      "label": "Frequency response",
+      "value": "4 Hz \u2013 51,000 Hz (-10 dB)"
+    },
+    {
+      "label": "THD",
+      "value": "0.02% (1 kHz, 1 Vrms)"
+    },
+    {
+      "label": "Contact pressure",
+      "value": "~3.4 N (\u00b10.3 N)"
+    },
+    {
+      "label": "Weight (without cable)",
+      "value": "330 g"
+    },
+    {
+      "label": "Included cable",
+      "value": "6.35 mm (1/4\") TRS single-ended; 3 m"
+    }
+  ]
+}

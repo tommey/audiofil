@@ -1,0 +1,48 @@
+{
+  "rank_key": "aperio",
+  "product_name": "Warwick Acoustics Aperio",
+  "page_title": "Warwick Acoustics Aperio Headphone System",
+  "source_url": "https://www.audioemotion.co.uk/warwick-acoustics-aperio-reference-headphone-system-32898-p.asp",
+  "specs": [
+    {
+      "label": "Configuration",
+      "value": "Open-back circumaural electrostatic"
+    },
+    {
+      "label": "Transducer",
+      "value": "Balanced-Drive High Precision Electrostatic Laminate (BD-HPEL)"
+    },
+    {
+      "label": "Effective diaphragm area",
+      "value": "3570 mm²"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10 Hz - 60 kHz"
+    },
+    {
+      "label": "Output level (SPL)",
+      "value": "Approx. 104 dB digital / 106 dB analog (EN 60065/A12:2011 compliant)"
+    },
+    {
+      "label": "Ear and headband cushions",
+      "value": "Cabretta top-grain sheepskin leather; perforated ear cushions"
+    },
+    {
+      "label": "Input",
+      "value": "Polarized 4-pin self-latching connectors per channel"
+    },
+    {
+      "label": "Drive cable",
+      "value": "Dual mono, shielded, ultra-low capacitance, silver-plated OFHC with silicone/Kevlar reinforcement (2 m)"
+    },
+    {
+      "label": "Weight",
+      "value": "405 g (without cable)"
+    },
+    {
+      "label": "Notes",
+      "value": "Paired with Aperio electronics featuring dual 32-bit ESS Sabre DACs and reference-grade amp modules"
+    }
+  ]
+}

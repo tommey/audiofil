@@ -1,0 +1,28 @@
+{
+  "page_title": "ETHER C Headphone - Dan Clark Audio Archive",
+  "product_name": "Dan Clark Audio ETHER C",
+  "rank_key": "ether c",
+  "source_url": "https://danclarkaudio.com/ether-c.html",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Closed back planar magnetic"
+    },
+    {
+      "label": "Impedance",
+      "value": "23 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "92 dB/mW"
+    },
+    {
+      "label": "Weight",
+      "value": "385 g"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10 Hz - 45 kHz"
+    }
+  ]
+}

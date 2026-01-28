@@ -1,0 +1,32 @@
+{
+  "page_title": "HE-R10P - HIFIMAN",
+  "product_name": "HIFIMAN HE-R10P",
+  "rank_key": "he r10p",
+  "source_url": "https://hifiman.com/products/detail/307",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Closed-back planar headphone"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10Hz-60kHz"
+    },
+    {
+      "label": "Impedance",
+      "value": "30\u03a9"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "100dB"
+    },
+    {
+      "label": "Weight",
+      "value": "460g"
+    },
+    {
+      "label": "Socket",
+      "value": "3.5mm Balanced"
+    }
+  ]
+}

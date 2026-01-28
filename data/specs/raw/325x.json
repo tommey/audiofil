@@ -1,0 +1,36 @@
+{
+  "rank_key": "325x",
+  "product_name": "SR325x",
+  "page_title": "Grado SR325x Headphones",
+  "source_url": "https://gradolabs.com/products/sr325x",
+  "specs": [
+    {
+      "label": "Tranducer type",
+      "value": "dynamic"
+    },
+    {
+      "label": "Operating principle",
+      "value": "open air"
+    },
+    {
+      "label": "Frequency Response",
+      "value": "18-24kHz"
+    },
+    {
+      "label": "SPL 1mW",
+      "value": "98"
+    },
+    {
+      "label": "Normal Impedance",
+      "value": "38ohms"
+    },
+    {
+      "label": "Driver matched db",
+      "value": ".05"
+    },
+    {
+      "label": "Cushions",
+      "value": "F"
+    }
+  ]
+}

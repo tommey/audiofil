@@ -1,0 +1,36 @@
+{
+  "page_title": "Fostex TH909 - Fostex International",
+  "product_name": "Fostex TH909",
+  "rank_key": "th909",
+  "source_url": "https://fostexinternational.com/docs/products/TH909.shtml",
+  "specs": [
+    {
+      "label": "Driver",
+      "value": "50 mm dynamic (biodyna) (per product page)"
+    },
+    {
+      "label": "Impedance",
+      "value": "25 ohm"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "100 dB/mW"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 - 45,000 Hz"
+    },
+    {
+      "label": "Maximum input power",
+      "value": "1,800 mW"
+    },
+    {
+      "label": "Weight",
+      "value": "Approx. 390 g (without cable)"
+    },
+    {
+      "label": "Cable",
+      "value": "Detachable; 1/4\" stereo phone plug"
+    }
+  ]
+}

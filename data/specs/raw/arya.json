@@ -1,0 +1,24 @@
+{
+  "rank_key": "arya",
+  "product_name": "HIFIMAN Arya",
+  "page_title": "Arya",
+  "source_url": "https://www.hifiman.com/products/detail/297",
+  "specs": [
+    {
+      "label": "Impedance",
+      "value": "35Ω"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "90db"
+    },
+    {
+      "label": "Frequency Response",
+      "value": "8Hz-65kHz"
+    },
+    {
+      "label": "Weight",
+      "value": "404g (14.3oz)"
+    }
+  ]
+}

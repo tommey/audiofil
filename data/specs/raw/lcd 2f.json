@@ -1,0 +1,40 @@
+{
+  "page_title": "LCD-2 - Audeze",
+  "product_name": "Audeze LCD-2 (Fazor)",
+  "rank_key": "lcd 2f",
+  "source_url": "https://www.audeze.com/collections/audiophile/products/lcd-2",
+  "specs": [
+    {
+      "label": "Style",
+      "value": "Over-ear, open-back"
+    },
+    {
+      "label": "Transducer type",
+      "value": "Planar magnetic"
+    },
+    {
+      "label": "Phase management",
+      "value": "Fazor"
+    },
+    {
+      "label": "Transducer size",
+      "value": "106 mm"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10Hz - 50kHz"
+    },
+    {
+      "label": "Impedance",
+      "value": "70 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "101 dB/1mW (at Drum Reference Point)"
+    },
+    {
+      "label": "Weight",
+      "value": "595g"
+    }
+  ]
+}

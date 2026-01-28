@@ -1,0 +1,40 @@
+{
+  "page_title": "AKG K712 PRO - Over-Ear Reference Studio Headphones",
+  "product_name": "AKG K712 PRO",
+  "rank_key": "k712",
+  "source_url": "https://www.akg.com/Headphones/Professional%20Headphones/K712PRO.html",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Open-back, over-ear"
+    },
+    {
+      "label": "Driver size",
+      "value": "45 mm"
+    },
+    {
+      "label": "Impedance",
+      "value": "62 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "105 dB SPL/V"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10 - 39,800 Hz"
+    },
+    {
+      "label": "Weight (without cable)",
+      "value": "235 g"
+    },
+    {
+      "label": "Cable",
+      "value": "Detachable"
+    },
+    {
+      "label": "Connector",
+      "value": "3-pin mini XLR (headphone side)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "page_title": "DT 1770 PRO: Closed studio headphones",
+  "product_name": "beyerdynamic DT 1770 PRO",
+  "rank_key": "dt1770",
+  "source_url": "https://north-america.beyerdynamic.com/dt-1770-pro.html",
+  "specs": [
+    {
+      "label": "Operating principle",
+      "value": "Closed"
+    },
+    {
+      "label": "Transmission type",
+      "value": "Wired"
+    },
+    {
+      "label": "Nominal impedance",
+      "value": "250 ohms"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 - 40,000 Hz"
+    },
+    {
+      "label": "Nominal sound pressure level",
+      "value": "102 dB SPL (1 mW / 500 Hz)"
+    },
+    {
+      "label": "Weight (without cable)",
+      "value": "388 g"
+    },
+    {
+      "label": "Cable & plug",
+      "value": "Detachable cable; 3-pin XLR plug; 6.35 mm stereo jack plug; 3 m straight cable & 5 m coiled cable"
+    },
+    {
+      "label": "Transducer type",
+      "value": "Dynamic (Tesla)"
+    },
+    {
+      "label": "Driver size",
+      "value": "45 mm"
+    }
+  ]
+}

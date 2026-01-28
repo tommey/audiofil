@@ -1,0 +1,36 @@
+{
+  "page_title": "Fostex T60RP - Fostex International",
+  "product_name": "Fostex T60RP",
+  "rank_key": "t60rp",
+  "source_url": "https://fostexinternational.com/docs/products/T60RP.shtml",
+  "specs": [
+    {
+      "label": "Driver",
+      "value": "RP planar magnetic"
+    },
+    {
+      "label": "Impedance",
+      "value": "50 ohm"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "92 dB/mW"
+    },
+    {
+      "label": "Frequency response",
+      "value": "15 - 35,000 Hz"
+    },
+    {
+      "label": "Maximum input power",
+      "value": "3,000 mW"
+    },
+    {
+      "label": "Weight",
+      "value": "Approx. 380 g (without cable)"
+    },
+    {
+      "label": "Cable",
+      "value": "Detachable; 3.5 mm stereo phone plug"
+    }
+  ]
+}

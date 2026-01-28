@@ -1,0 +1,28 @@
+{
+  "page_title": "S4X mixing and producing studio headphones \u2013 OLLO Audio",
+  "product_name": "OLLO Audio S4X",
+  "rank_key": "s4x",
+  "source_url": "https://olloaudio.com/products/s4x-reference-headphones",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Open-back, studio reference"
+    },
+    {
+      "label": "Speaker",
+      "value": "Dynamic neodymium 50 mm; PET 25u membrane; 2-layered coil"
+    },
+    {
+      "label": "Impedance",
+      "value": "32 ohms (speaker section lists 32 ohms; also mentions ~30 ohm)"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "109 dB SPL @ 1 Vrms @ 1 kHz (30 ohm output)"
+    },
+    {
+      "label": "Frequency response band (variation spec)",
+      "value": "20 Hz to 20 kHz (variation ~13.7 dB SPL)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "page_title": "Linsoul GoldPlanar GL2000",
+  "product_name": "Gold Planar GL2000",
+  "rank_key": "gl2000",
+  "source_url": "https://www.linsoul.com/products/goldplanar-gl2000",
+  "specs": [
+    {
+      "label": "Transducer",
+      "value": "Planar Magnetic"
+    },
+    {
+      "label": "Impedance",
+      "value": "60 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "99 dB"
+    },
+    {
+      "label": "Frequency response",
+      "value": "6 Hz - 50 kHz"
+    },
+    {
+      "label": "Weight",
+      "value": "530 g"
+    },
+    {
+      "label": "Input connector",
+      "value": "4-pin mini XLR"
+    },
+    {
+      "label": "Cable termination",
+      "value": "3.5mm"
+    },
+    {
+      "label": "Driver",
+      "value": "100mm double-sided planar magnetic"
+    }
+  ]
+}

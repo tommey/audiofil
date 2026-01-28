@@ -1,0 +1,56 @@
+{
+  "rank_key": "composer",
+  "product_name": "Austrian Audio The Composer",
+  "page_title": "The Composer - Austrian Audio",
+  "source_url": "https://austrian.audio/product/thecomposer/",
+  "specs": [
+    {
+      "label": "Price",
+      "value": "$2,699.00"
+    },
+    {
+      "label": "Construction",
+      "value": "Open"
+    },
+    {
+      "label": "Frequency range",
+      "value": "20 - 40.000 Hz"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "115 dBSPL/V"
+    },
+    {
+      "label": "THD (@1kHz)",
+      "value": "< 0,1%"
+    },
+    {
+      "label": "Driver size",
+      "value": "49 mm"
+    },
+    {
+      "label": "Impedance",
+      "value": "22 Ω"
+    },
+    {
+      "label": "Input Power",
+      "value": "2.000 mW"
+    },
+    {
+      "label": "Detachable cables with Banana Jack (included)",
+      "value": "2 x 3.0 m"
+    },
+    {
+      "label": "Adapter (included)",
+      "value": "3.5mm (1/8in) to 6.3mm (1/4in)"
+    },
+    {
+      "label": "Dimensions",
+      "value": "200 x 200 x 85 mm (7,9 x 7,9 x 3,3 in)"
+    },
+    {
+      "label": "Weight (without cable)",
+      "value": "385 g (13,58 oz)"
+    }
+  ]
+}

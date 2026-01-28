@@ -1,0 +1,40 @@
+{
+  "page_title": "Stellia - Reference closed-back hi-fi headphones | Focal",
+  "product_name": "Focal Stellia",
+  "rank_key": "stellia",
+  "source_url": "https://www.focal.com/index.php/products/stellia",
+  "specs": [
+    {
+      "label": "Product type",
+      "value": "Closed-back headphones"
+    },
+    {
+      "label": "Loudspeakers",
+      "value": "40mm pure Beryllium M-shaped dome"
+    },
+    {
+      "label": "Frequency response (+/- 3dB)",
+      "value": "5 Hz \u2013 23 kHz"
+    },
+    {
+      "label": "Harmonic distortion rate",
+      "value": "0.1% @ 1kHz / 100 dB SPL"
+    },
+    {
+      "label": "Impedance",
+      "value": "35 \u03a9"
+    },
+    {
+      "label": "Maximum SPL (peak@1m)",
+      "value": "106 dB SPL"
+    },
+    {
+      "label": "Weight",
+      "value": "435 g"
+    },
+    {
+      "label": "Cables provided",
+      "value": "1.2m 3.5mm; 3m 4-pin XLR; 3.5->6.35 adapter"
+    }
+  ]
+}

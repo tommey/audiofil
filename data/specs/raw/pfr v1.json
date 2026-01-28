@@ -1,0 +1,48 @@
+{
+  "page_title": "PFR-V1 Specifications | Sony Asia Pacific",
+  "product_name": "Sony PFR-V1",
+  "rank_key": "pfr v1",
+  "source_url": "https://www.sony-asia.com/electronics/support/wired-headphones-in-ear/pfr-v1/specifications",
+  "specs": [
+    {
+      "label": "Speaker system",
+      "value": "Head-mounted, Open-Air Stereo"
+    },
+    {
+      "label": "Speaker impedance",
+      "value": "16 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "93 dB/mW"
+    },
+    {
+      "label": "Frequency range",
+      "value": "35 - 25,000 Hz"
+    },
+    {
+      "label": "Weight",
+      "value": "Approx. 93 g"
+    },
+    {
+      "label": "Cord length",
+      "value": "1 m"
+    },
+    {
+      "label": "Power source",
+      "value": "2 x AAA batteries"
+    },
+    {
+      "label": "Playback time",
+      "value": "Approx. 45 hrs"
+    },
+    {
+      "label": "Power output",
+      "value": "60 mW"
+    },
+    {
+      "label": "Supplied accessories",
+      "value": "Extension cord, carrying case, user manual"
+    }
+  ]
+}

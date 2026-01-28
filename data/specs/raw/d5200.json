@@ -1,0 +1,17 @@
+{
+  "rank_key": "d5200",
+  "product_name": "Denon AH-D5200",
+  "page_title": "Denon AH-D5200 Reference Quality Over-Ear Headphones",
+  "source_url": "https://www.av.com/Headphones/Denon-AH-D5200-Reference-Quality-Over-Ear-Headphones/4EZO",
+  "specs": [
+    {"label":"Type","value":"Closed-back dynamic"},
+    {"label":"Driver diameter","value":"50 mm"},
+    {"label":"Impedance","value":"24 ohm"},
+    {"label":"Sensitivity","value":"103 dB/mW"},
+    {"label":"Frequency response","value":"5 - 40,000 Hz"},
+    {"label":"Weight","value":"385 g"},
+    {"label":"Cable length","value":"3.0 m"},
+    {"label":"Plug","value":"3.5mm (player) to dual 3.5mm (headphone)"},
+    {"label":"Adapter","value":"6.3mm"}
+  ]
+}

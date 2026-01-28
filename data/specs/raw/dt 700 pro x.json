@@ -1,0 +1,69 @@
+{
+  "rank_key": "dt 700 pro x",
+  "product_name": "DT 700 PRO X",
+  "page_title": "DT 700 PRO X 48 Ohm Professional Monitoring Headphone",
+  "source_url": "https://www.beyerdynamic.com.au/products/beyerdynamic-dt-700-pro-x",
+  "specs": [
+    {
+      "label": "Transducer type",
+      "value": "Dynamic"
+    },
+    {
+      "label": "Operating principle",
+      "value": "Closed"
+    },
+    {
+      "label": "Sound coupling to the ear",
+      "value": "Circumaural"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 - 40,000 Hz"
+    },
+    {
+      "label": "Nominal impedance",
+      "value": "48 ohms"
+    },
+    {
+      "label": "Nominal SPL",
+      "value": "100 dB SPL (1 mW/500 Hz); 114 dB SPL (1 V/500 Hz)"
+    },
+    {
+      "label": "Total harmonic distortion (THD)",
+      "value": "0.40% @ 100 Hz; 0.05% @ 500 Hz; 0.04% @ 1 kHz"
+    },
+    {
+      "label": "Short term maximum input power",
+      "value": "100 mW"
+    },
+    {
+      "label": "Rated maximum input power (continuous operation)",
+      "value": "30 mW"
+    },
+    {
+      "label": "Ambient noise attenuation",
+      "value": "20 dB A"
+    },
+    {
+      "label": "Headband pressure",
+      "value": "5.3 N"
+    },
+    {
+      "label": "Weight",
+      "value": "350 g"
+    },
+    {
+      "label": "Connection",
+      "value": "Gold-plated mini stereo jack (3.5 mm) and adapter 6.35 mm"
+    },
+    {
+      "label": "Length and type of cable",
+      "value": "3 m / straight cable; 1.8 m / straight cable; each detachable, with 3-pin mini XLR cable connector, single-sided"
+    },
+    {
+      "label": "Included accessories",
+      "value": "1.8 m cable; 3 m cable; 6.35 mm adapter; drawstring bag"
+    }
+  ]
+}
+

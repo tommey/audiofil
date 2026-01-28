@@ -1,0 +1,32 @@
+{
+  "rank_key": "corina",
+  "product_name": "Dan Clark Audio CORINA",
+  "page_title": "CORINA Reference Electrostatic Headphone",
+  "source_url": "https://danclarkaudio.com/corina.html",
+  "specs": [
+    {
+      "label": "Driver Type",
+      "value": "Electrostatic"
+    },
+    {
+      "label": "Driver Size",
+      "value": "88 mm"
+    },
+    {
+      "label": "Capacitance (with 2m cable)",
+      "value": "135 pF"
+    },
+    {
+      "label": "Weight",
+      "value": "465 g"
+    },
+    {
+      "label": "Frequency Response",
+      "value": "Flat to 6 Hz"
+    },
+    {
+      "label": "Notes",
+      "value": "AMTS (Acoustic Metamaterial Tuning System), self-adjusting headband, re-engineered 88mm driver"
+    }
+  ]
+}

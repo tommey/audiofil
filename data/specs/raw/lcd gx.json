@@ -1,0 +1,40 @@
+{
+  "page_title": "LCD-GX - Audeze",
+  "product_name": "Audeze LCD-GX",
+  "rank_key": "lcd gx",
+  "source_url": "https://www.audeze.com/products/lcd-gx",
+  "specs": [
+    {
+      "label": "Style",
+      "value": "Over-ear, open-back"
+    },
+    {
+      "label": "Transducer type",
+      "value": "Planar Magnetic"
+    },
+    {
+      "label": "Phase management",
+      "value": "Non-Fazor"
+    },
+    {
+      "label": "Transducer size",
+      "value": "106 mm"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10Hz - 50kHz"
+    },
+    {
+      "label": "Impedance",
+      "value": "20 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "100 dB/1mW (at Drum Reference Point)"
+    },
+    {
+      "label": "Weight",
+      "value": "454g"
+    }
+  ]
+}

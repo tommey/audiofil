@@ -1,0 +1,48 @@
+{
+  "page_title": "ELITE - Meze Audio",
+  "product_name": "Meze ELITE",
+  "rank_key": "elite",
+  "source_url": "https://mezeaudio.com/pages/elite",
+  "specs": [
+    {
+      "label": "Driver type",
+      "value": "RINARO Isodynamic Hybrid Array MZ3SE"
+    },
+    {
+      "label": "Geometry",
+      "value": "Ellipse"
+    },
+    {
+      "label": "Operating principle",
+      "value": "Open-back"
+    },
+    {
+      "label": "Frequency response",
+      "value": "3 Hz - 112 kHz"
+    },
+    {
+      "label": "Impedance",
+      "value": "32 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "101 dB SPL/mW at 1 kHz"
+    },
+    {
+      "label": "Max SPL",
+      "value": ">130 dB"
+    },
+    {
+      "label": "Total harmonic distortion",
+      "value": "<0.05%"
+    },
+    {
+      "label": "Weight",
+      "value": "433 g"
+    },
+    {
+      "label": "Input connector",
+      "value": "Dual 4-pin mini XLR"
+    }
+  ]
+}

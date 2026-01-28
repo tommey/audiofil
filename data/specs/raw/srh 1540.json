@@ -1,0 +1,52 @@
+{
+  "page_title": "Shure SRH1540 Specs (B&H)",
+  "product_name": "Shure SRH1540",
+  "rank_key": "srh 1540",
+  "source_url": "https://www.bhphotovideo.com/c/product/1594648-REG/shure_srh1540_bk_srh1540_premium_closed_back_headphones.html/specs",
+  "specs": [
+    {
+      "label": "Open/Closed-Back",
+      "value": "Closed-Back"
+    },
+    {
+      "label": "Driver Type",
+      "value": "Dynamic"
+    },
+    {
+      "label": "Driver Size",
+      "value": "40 mm"
+    },
+    {
+      "label": "Impedance",
+      "value": "46 Ohms"
+    },
+    {
+      "label": "Frequency Response",
+      "value": "5 Hz to 25 kHz"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "99 dB/mW at 1 kHz"
+    },
+    {
+      "label": "Maximum Power Handling",
+      "value": "1000 mW"
+    },
+    {
+      "label": "Cable Design",
+      "value": "Detachable / Straight"
+    },
+    {
+      "label": "Cable Length",
+      "value": "6 ft / 1.8 m"
+    },
+    {
+      "label": "Audio Connector",
+      "value": "3.5 mm TRS (1/4\" adapter)"
+    },
+    {
+      "label": "Weight",
+      "value": "286 g (without cable)"
+    }
+  ]
+}

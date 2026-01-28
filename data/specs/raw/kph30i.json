@@ -1,0 +1,28 @@
+{
+  "page_title": "KPH30i | Koss Headphones",
+  "product_name": "Koss KPH30i",
+  "rank_key": "kph30i",
+  "source_url": "https://koss.com/products/kph30i",
+  "specs": [
+    {
+      "label": "Frequency response",
+      "value": "15-25,000 Hz"
+    },
+    {
+      "label": "Impedance",
+      "value": "60 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "101 dB SPL/1mW"
+    },
+    {
+      "label": "Cord length",
+      "value": "1.2 m (4 ft) straight"
+    },
+    {
+      "label": "Plug",
+      "value": "3.5 mm (1/8\")"
+    }
+  ]
+}

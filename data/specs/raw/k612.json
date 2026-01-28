@@ -1,0 +1,36 @@
+{
+  "page_title": "AKG K612 PRO (Thomann)",
+  "product_name": "AKG K612 PRO",
+  "rank_key": "k612",
+  "source_url": "https://www.thomannmusic.com/akg_k_612_pro.htm",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Open-back, over-ear"
+    },
+    {
+      "label": "Impedance",
+      "value": "120 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "101 dB"
+    },
+    {
+      "label": "Frequency response",
+      "value": "12 - 39,500 Hz"
+    },
+    {
+      "label": "Weight",
+      "value": "238 g"
+    },
+    {
+      "label": "Cable",
+      "value": "3 m (fixed)"
+    },
+    {
+      "label": "Connector",
+      "value": "3.5 mm (1/8\") + 6.35 mm adapter"
+    }
+  ]
+}

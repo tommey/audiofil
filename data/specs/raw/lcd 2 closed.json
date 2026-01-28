@@ -1,0 +1,64 @@
+{
+  "page_title": "LCD-2 Closed-Back - Audeze",
+  "product_name": "Audeze LCD-2 Closed-Back",
+  "rank_key": "lcd 2 closed",
+  "source_url": "https://www.audeze.com/products/lcd-2-closed-back",
+  "specs": [
+    {
+      "label": "Style",
+      "value": "Over-ear, closed-back"
+    },
+    {
+      "label": "Transducer type",
+      "value": "Planar Magnetic"
+    },
+    {
+      "label": "Magnetic structure",
+      "value": "Proprietary magnet array"
+    },
+    {
+      "label": "Phase management",
+      "value": "Non-Fazor"
+    },
+    {
+      "label": "Magnet type",
+      "value": "Neodymium N50"
+    },
+    {
+      "label": "Diaphragm type",
+      "value": "Ultra-thin"
+    },
+    {
+      "label": "Transducer size",
+      "value": "106 mm"
+    },
+    {
+      "label": "Maximum power handling",
+      "value": "5W RMS"
+    },
+    {
+      "label": "Maximum SPL",
+      "value": ">130dB"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10Hz - 50kHz"
+    },
+    {
+      "label": "THD",
+      "value": "<0.1% @ 100dB"
+    },
+    {
+      "label": "Impedance",
+      "value": "70 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "101 dB/1mW (at Drum Reference Point)"
+    },
+    {
+      "label": "Weight",
+      "value": "612g"
+    }
+  ]
+}

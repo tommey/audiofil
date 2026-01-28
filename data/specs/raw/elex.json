@@ -1,0 +1,44 @@
+{
+  "page_title": "Massdrop x Focal Elex Headphones | Drop",
+  "product_name": "Drop + Focal Elex",
+  "rank_key": "elex",
+  "source_url": "https://drop.com/buy/massdrop-x-focal-elex-headphones",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Open-back circumaural"
+    },
+    {
+      "label": "Driver",
+      "value": "40 mm full-range dynamic driver with aluminum-magnesium \"M\"-shaped dome"
+    },
+    {
+      "label": "Impedance",
+      "value": "80 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "104 dB SPL / 1 mW at 1 kHz"
+    },
+    {
+      "label": "THD",
+      "value": "< 0.3% at 1 kHz / 100 dB SPL"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 Hz - 23 kHz"
+    },
+    {
+      "label": "Weight",
+      "value": "450 g"
+    },
+    {
+      "label": "Cable length",
+      "value": "1.8 m (6 ft)"
+    },
+    {
+      "label": "Included",
+      "value": "Single-ended cable with 6.35 mm plug; balanced cable with 4-pin XLR plug"
+    }
+  ]
+}

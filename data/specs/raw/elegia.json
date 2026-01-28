@@ -1,0 +1,61 @@
+{
+  "rank_key": "elegia",
+  "product_name": "Focal Elegia",
+  "page_title": "Focal Elegia - Focal NAIM North America",
+  "source_url": "https://www.focalnaimaudio.com/products/elegia",
+  "specs": [
+    {
+      "label": "Product type",
+      "value": "Closed-back circum-aural headphones"
+    },
+    {
+      "label": "Loudspeakers",
+      "value": "1 5/8\" (40mm) Aluminum/Magnesium \"M\"-shaped dome"
+    },
+    {
+      "label": "Frequency response (+/- 3dB)",
+      "value": "5Hz - 23kHz"
+    },
+    {
+      "label": "Harmonic distortion rate",
+      "value": "0.3% @ 1kHz / 100dB SPL"
+    },
+    {
+      "label": "Impedance",
+      "value": "35 ohms"
+    },
+    {
+      "label": "Maximum SPL (peak@1m)",
+      "value": "105dB SPL"
+    },
+    {
+      "label": "Weight",
+      "value": "0.95lb (430g)"
+    },
+    {
+      "label": "Carrying case included",
+      "value": "Yes"
+    },
+    {
+      "label": "Carrying case depth",
+      "value": "4\" 1/8 (105mm)"
+    },
+    {
+      "label": "Carrying case height",
+      "value": "9\" 1/2 (240mm)"
+    },
+    {
+      "label": "Carrying case width",
+      "value": "10\" 1/4 (260mm)"
+    },
+    {
+      "label": "Cables provided",
+      "value": "4ft (1.2m) jack 3.5mm cable; 9ft (3m) jack 3.5mm cable; 9ft (3m) jack 6.35mm cable"
+    },
+    {
+      "label": "Connectivities",
+      "value": "Jack (6.35mm); Mini-Jack (3.5mm)"
+    }
+  ]
+}
+

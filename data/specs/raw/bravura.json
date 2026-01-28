@@ -1,0 +1,37 @@
+{
+  "rank_key": "bravura",
+  "product_name": "Warwick Acoustics BRAVURA Electrostatic Headphone System",
+  "page_title": "The BRAVURA Electrostatic Headphone System User Manual (July 2021 | Version 1.0)",
+  "source_url": "https://assets.ctfassets.net/9ddpwm2ucrxr/5b4lbM9tRXuaLdQBkQL6sH/045933d018f3a571dcb4cfdf92c563da/BRAVURA_USER_MANUAL_Published_July_2021.pdf",
+  "specs": [
+    {
+      "label": "Frequency Response",
+      "value": "10 Hz - 90 kHz"
+    },
+    {
+      "label": "Weight (Headphone)",
+      "value": "290 g"
+    },
+    {
+      "label": "Max Output Level",
+      "value": "100 dB SPL @ 1 kHz"
+    },
+    {
+      "label": "Connection Type",
+      "value": "LEMO connector (dual-pin) (headphone to interface)"
+    },
+    {
+      "label": "Power Consumption",
+      "value": "5 W @ 115 VAC/230 VAC"
+    },
+    {
+      "label": "Input Connector",
+      "value": "Dual RCA"
+    },
+    {
+      "label": "Power Input",
+      "value": "IEC AC inlet with integrated fuse and voltage selector"
+    }
+  ]
+}
+

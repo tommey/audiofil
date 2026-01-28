@@ -1,0 +1,57 @@
+{
+  "rank_key": "ca 1a",
+  "product_name": "RAAL-requisite CA-1a",
+  "page_title": "RAAL CA-1a Headphones | Moon Audio",
+  "source_url": "https://www.moon-audio.com/products/raal-ca-1a-headphones",
+  "specs": [
+    {
+      "label": "Driver Type",
+      "value": "Ribbon Driver"
+    },
+    {
+      "label": "Driver Size",
+      "value": "8 cm Long, Full-Spectrum Driver"
+    },
+    {
+      "label": "Design",
+      "value": "Circumaural (Around-the-Ear) Cups with Interchangeable Pads"
+    },
+    {
+      "label": "Impedance (Raw Driver)",
+      "value": "Approximately 0.2 ohms (Without Transformer)"
+    },
+    {
+      "label": "System Impedance (With Transformer)",
+      "value": "16 or 32 ohms"
+    },
+    {
+      "label": "Amplifier Interface",
+      "value": "Requires TI-1b Transformer Box"
+    },
+    {
+      "label": "Power Requirements",
+      "value": "Massive Current Required; Caution if Amp Outputs > 25 Watts"
+    },
+    {
+      "label": "Compatible Output",
+      "value": "4-Pin Balanced XLR Headphone Amplifier"
+    },
+    {
+      "label": "Headphones",
+      "value": "CA-1a True-Ribbon Headphones"
+    },
+    {
+      "label": "Transformer Interface",
+      "value": "TI-1b Transformer Box (Contains Toroidal Transformers)"
+    },
+    {
+      "label": "SC2 Cable",
+      "value": "Connects CA-1a Headphones to TI-1b Interface"
+    },
+    {
+      "label": "HPL Cable",
+      "value": "Connects TI-1b to 4-Pin XLR Headphone Amplifier Output"
+    }
+  ]
+}
+

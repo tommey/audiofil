@@ -1,0 +1,28 @@
+{
+  "page_title": "SRH840A Professional Monitoring Headphones - Shure",
+  "product_name": "Shure SRH840A",
+  "rank_key": "srh 840a",
+  "source_url": "https://www.shure.com/en-US/products/headphones/srh840a",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Closed-back dynamic"
+    },
+    {
+      "label": "Impedance",
+      "value": "40 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "97 dB SPL/mW"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 - 25,000 Hz"
+    },
+    {
+      "label": "Weight",
+      "value": "273 g"
+    }
+  ]
+}

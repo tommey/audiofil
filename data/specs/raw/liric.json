@@ -1,0 +1,52 @@
+{
+  "page_title": "Meze Audio Liric - High-Fidelity Premium Closed-Back Dynamic Driver Headphones",
+  "product_name": "Meze Audio Liric",
+  "rank_key": "liric",
+  "source_url": "https://mezeaudio.com/products/liric",
+  "specs": [
+    {
+      "label": "Driver type",
+      "value": "Rinaro Isodynamic Hybrid Array MZ4"
+    },
+    {
+      "label": "Operating principle",
+      "value": "Closed-back"
+    },
+    {
+      "label": "Driver size",
+      "value": "92 mm x 63 mm"
+    },
+    {
+      "label": "Frequency range",
+      "value": "4 Hz - 92 kHz"
+    },
+    {
+      "label": "Impedance",
+      "value": "61 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "100 dB SPL/mW at 1 kHz"
+    },
+    {
+      "label": "Max SPL",
+      "value": ">130 dB"
+    },
+    {
+      "label": "THD",
+      "value": "<0.15%"
+    },
+    {
+      "label": "Weight",
+      "value": "427 g"
+    },
+    {
+      "label": "Input connector",
+      "value": "Dual 3.5 mm TS jack"
+    },
+    {
+      "label": "Included cables",
+      "value": "1.3 m 4.4 mm cable; 3 m 3.5 mm cable"
+    }
+  ]
+}

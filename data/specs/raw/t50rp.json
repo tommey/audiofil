@@ -1,0 +1,44 @@
+{
+  "page_title": "T50RP | Fostex",
+  "product_name": "Fostex T50RP",
+  "rank_key": "t50rp",
+  "source_url": "https://www.fostex.jp/en/products/t50rp/",
+  "specs": [
+    {
+      "label": "Playback frequency band",
+      "value": "15 to 35,000 Hz"
+    },
+    {
+      "label": "Impedance",
+      "value": "50\u03a9"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "98dB/mW"
+    },
+    {
+      "label": "Maximum input",
+      "value": "3,000mW"
+    },
+    {
+      "label": "Mass of main unit",
+      "value": "Approx. 330g"
+    },
+    {
+      "label": "Cable length",
+      "value": "3m (single-sided type)"
+    },
+    {
+      "label": "Plug",
+      "value": "Stereo standard plug"
+    },
+    {
+      "label": "Cable",
+      "value": "Detachable"
+    },
+    {
+      "label": "Housing",
+      "value": "Damped semi-open"
+    }
+  ]
+}

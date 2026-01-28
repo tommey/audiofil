@@ -1,0 +1,40 @@
+{
+  "rank_key": "cd900st",
+  "product_name": "Sony MDR-CD900ST",
+  "page_title": "Sony MDR-CD900ST",
+  "source_url": "https://www.ikebe-gakki.com/en/products/51039",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Closed dynamic"
+    },
+    {
+      "label": "Driver",
+      "value": "40 mm"
+    },
+    {
+      "label": "Impedance",
+      "value": "63 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "106 dB/mW"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 - 30,000 Hz"
+    },
+    {
+      "label": "Weight",
+      "value": "200 g (without cord)"
+    },
+    {
+      "label": "Cord length",
+      "value": "2.5 m"
+    },
+    {
+      "label": "Plug",
+      "value": "Standard stereo plug"
+    }
+  ]
+}

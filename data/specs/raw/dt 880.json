@@ -1,0 +1,36 @@
+{
+  "page_title": "DT 880 PRO: Closed studio headphones",
+  "product_name": "beyerdynamic DT 880 PRO",
+  "rank_key": "dt 880",
+  "source_url": "https://north-america.beyerdynamic.com/dt-880-pro.html",
+  "specs": [
+    {
+      "label": "Operating principle",
+      "value": "Semi-open"
+    },
+    {
+      "label": "Transmission type",
+      "value": "Wired"
+    },
+    {
+      "label": "Nominal impedance",
+      "value": "250 ohms"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 - 35,000 Hz"
+    },
+    {
+      "label": "Nominal sound pressure level",
+      "value": "96 dB"
+    },
+    {
+      "label": "Weight (without cable)",
+      "value": "295 g"
+    },
+    {
+      "label": "Cable & plug",
+      "value": "Coiled connecting cable (3.0 m) & gold-plated stereo jack plug (3.5 mm) + adapter (6.35 mm)"
+    }
+  ]
+}

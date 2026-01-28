@@ -1,0 +1,60 @@
+{
+  "page_title": "SENNHEISER HE 1 USER MANUAL (ManualsLib)",
+  "product_name": "Sennheiser HE 1 (HE 1-HP)",
+  "rank_key": "he 1",
+  "source_url": "https://www.manualslib.com/manual/1209626/Sennheiser-He-1.html",
+  "specs": [
+    {
+      "label": "Transducer principle",
+      "value": "Electrostatic, push-pull principle"
+    },
+    {
+      "label": "Acoustic operating principle",
+      "value": "Open"
+    },
+    {
+      "label": "Ear coupling",
+      "value": "Circum-aural"
+    },
+    {
+      "label": "Contact pressure",
+      "value": "4.3 N \u00b1 0.3 N"
+    },
+    {
+      "label": "Frequency characteristic",
+      "value": "Diffuse field equalized"
+    },
+    {
+      "label": "Frequency response",
+      "value": "8 \u2013 80,000 Hz (-3 dB); 4 \u2013 100,000 Hz (-10 dB)"
+    },
+    {
+      "label": "Max sound pressure level",
+      "value": "114 dB SPL"
+    },
+    {
+      "label": "THD",
+      "value": "< 0.01% (1 kHz, 100 dB SPL)"
+    },
+    {
+      "label": "Cable",
+      "value": "Silver-plated OFC, balanced, shielded, PTFE insulated, 3 m"
+    },
+    {
+      "label": "Connector",
+      "value": "9-pin HV connector"
+    },
+    {
+      "label": "Operating voltage",
+      "value": "780 V DC"
+    },
+    {
+      "label": "Polarization voltage",
+      "value": "650 V"
+    },
+    {
+      "label": "Weight (without cable)",
+      "value": "approx. 550 g"
+    }
+  ]
+}

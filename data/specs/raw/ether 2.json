@@ -1,0 +1,28 @@
+{
+  "page_title": "ETHER 2 Headphone - Dan Clark Audio Archive",
+  "product_name": "Dan Clark Audio ETHER 2",
+  "rank_key": "ether 2",
+  "source_url": "https://danclarkaudio.com/ether-2.html",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Open back planar magnetic"
+    },
+    {
+      "label": "Impedance",
+      "value": "16 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "92 dB/mW"
+    },
+    {
+      "label": "Weight",
+      "value": "290 g"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10 Hz - 45 kHz"
+    }
+  ]
+}

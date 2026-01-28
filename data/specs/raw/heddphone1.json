@@ -1,0 +1,28 @@
+{
+  "page_title": "HEDDphone - HEDD Audio",
+  "product_name": "HEDDphone",
+  "rank_key": "heddphone1",
+  "source_url": "https://hedd.audio/pages/heddphone-air-motion-transformer-headphones",
+  "specs": [
+    {
+      "label": "Transducer",
+      "value": "Air Motion Transformer (AMT)"
+    },
+    {
+      "label": "Impedance",
+      "value": "42 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "87 dB"
+    },
+    {
+      "label": "Weight",
+      "value": "718 g (from Thomann listing)"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10 Hz - 40 kHz (from Thomann listing)"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "rank_key": "ananda nano",
+  "product_name": "HIFIMAN Ananda Nano",
+  "page_title": "ANANDA NANO",
+  "source_url": "https://www.hifiman.com/products/detail/334",
+  "specs": [
+    {
+      "label": "Price",
+      "value": "$499"
+    },
+    {
+      "label": "Driver",
+      "value": "Nanometer Thickness Diaphragm with Stealth magnets derived from the SUSVARA platform"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 Hz - 55 kHz"
+    },
+    {
+      "label": "Impedance",
+      "value": "14 Ω"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "94 dB"
+    },
+    {
+      "label": "Weight",
+      "value": "419.6 g"
+    },
+    {
+      "label": "Headband",
+      "value": "Hybrid strap that disperses weight for longer listening sessions"
+    },
+    {
+      "label": "Connector",
+      "value": "Dual user-replaceable 3.5 mm jacks (includes 6.35 mm adapter)"
+    },
+    {
+      "label": "Cable",
+      "value": "Detachable dual 3.5 mm cable with premium case"
+    },
+    {
+      "label": "Notes",
+      "value": "Asymmetrical cups, window-shade grill, portable-friendly sensitivity"
+    }
+  ]
+}

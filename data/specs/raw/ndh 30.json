@@ -1,0 +1,52 @@
+{
+  "page_title": "NDH 30 - Neumann",
+  "product_name": "Neumann NDH 30",
+  "rank_key": "ndh 30",
+  "source_url": "https://www.neumann.com/en-li/products/headphones/ndh-30/",
+  "specs": [
+    {
+      "label": "Acoustic principle",
+      "value": "Dynamic open"
+    },
+    {
+      "label": "Frequency range",
+      "value": "12 ... 34,000 Hz"
+    },
+    {
+      "label": "Transducer diameter",
+      "value": "38 mm"
+    },
+    {
+      "label": "Nominal impedance",
+      "value": "120 Ohms"
+    },
+    {
+      "label": "Sensitivity at 1 kHz/1 Vrms",
+      "value": "104 dB SPL"
+    },
+    {
+      "label": "Max input power handling",
+      "value": "1000 mW"
+    },
+    {
+      "label": "Continuous input power handling",
+      "value": "200 mW"
+    },
+    {
+      "label": "THD at 1 kHz and 100 dB SPL",
+      "value": "<0.03%"
+    },
+    {
+      "label": "Connectivity",
+      "value": "3.5 mm TRS (adapter to 6.3 mm)"
+    },
+    {
+      "label": "Weight excluding cable",
+      "value": "352 g"
+    },
+    {
+      "label": "Detachable cable",
+      "value": "Yes"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "page_title": "Moondrop Joker Review - Headphonesty",
+  "product_name": "Moondrop Joker",
+  "rank_key": "joker",
+  "source_url": "https://www.headphonesty.com/2023/09/review-moondrop-joker/",
+  "specs": [
+    {
+      "label": "Form factor",
+      "value": "Closed-back, over-ear"
+    },
+    {
+      "label": "Drivers",
+      "value": "50mm dynamic drivers"
+    },
+    {
+      "label": "Nominal impedance",
+      "value": "68\u03a9 \u00b1 15% @ 1kHz"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "106 dB/V @ 1kHz"
+    },
+    {
+      "label": "Frequency response",
+      "value": "20 \u2013 20000Hz (IEC60318-4, 3dB window)"
+    },
+    {
+      "label": "Cable entry",
+      "value": "Dual 3.5mm TRS jacks"
+    },
+    {
+      "label": "Weight",
+      "value": "290g (without cable)"
+    }
+  ]
+}

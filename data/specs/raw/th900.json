@@ -1,0 +1,52 @@
+{
+  "page_title": "Fostex TH-900 MK2 Specs (B&H)",
+  "product_name": "Fostex TH-900 MK2",
+  "rank_key": "th900",
+  "source_url": "https://www.bhphotovideo.com/c/product/1762575-REG/fostex_th_900mk2_ob_th900mk2_premium_reference_headphones.html",
+  "specs": [
+    {
+      "label": "Open/Closed-Back",
+      "value": "Closed-Back"
+    },
+    {
+      "label": "Driver Type",
+      "value": "Dynamic"
+    },
+    {
+      "label": "Driver Size",
+      "value": "50 mm"
+    },
+    {
+      "label": "Impedance",
+      "value": "25 Ohms"
+    },
+    {
+      "label": "Frequency Response",
+      "value": "5 Hz to 45 kHz"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "100 dB/mW at 1 kHz"
+    },
+    {
+      "label": "Maximum Power Handling",
+      "value": "1800 mW"
+    },
+    {
+      "label": "Cable Design",
+      "value": "Detachable"
+    },
+    {
+      "label": "Cable Length",
+      "value": "3 m"
+    },
+    {
+      "label": "Audio Connector",
+      "value": "1x 1/4\" TRS"
+    },
+    {
+      "label": "Weight",
+      "value": "390 g"
+    }
+  ]
+}

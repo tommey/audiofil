@@ -1,0 +1,36 @@
+{
+  "page_title": "SR-L700 | STAX",
+  "product_name": "STAX SR-L700",
+  "rank_key": "l700",
+  "source_url": "https://stax.jp/archives/4005",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Earspeaker (electrostatic)"
+    },
+    {
+      "label": "Frequency response",
+      "value": "7 - 41,000 Hz"
+    },
+    {
+      "label": "Capacitance",
+      "value": "110 pF (including cable)"
+    },
+    {
+      "label": "Impedance",
+      "value": "145,000 ohms (including cable) at 10kHz"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "101 dB/100V rms at 1kHz"
+    },
+    {
+      "label": "Bias voltage",
+      "value": "580V DC"
+    },
+    {
+      "label": "Weight",
+      "value": "508 g (including cable)"
+    }
+  ]
+}

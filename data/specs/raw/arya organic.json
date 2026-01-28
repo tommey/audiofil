@@ -1,0 +1,36 @@
+{
+  "rank_key": "arya organic",
+  "product_name": "HIFIMAN Arya Organic",
+  "page_title": "HIFIMAN Arya | Organic Edition",
+  "source_url": "https://www.headamp.com/products/hifiman-arya-organic",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Open-Back, Over-Ear"
+    },
+    {
+      "label": "Frequency Response",
+      "value": "8Hz-65kHz"
+    },
+    {
+      "label": "Impedance",
+      "value": "16Ω"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "94dB"
+    },
+    {
+      "label": "Weight",
+      "value": "440g"
+    },
+    {
+      "label": "Connector",
+      "value": "User-replaceable 3.5mm input (6.35mm adapter included)"
+    },
+    {
+      "label": "Notes",
+      "value": "Nanometer thickness diaphragm, acoustically transparent stealth magnet, patented window shade, ergonomic headband"
+    }
+  ]
+}

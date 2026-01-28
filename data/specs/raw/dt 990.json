@@ -1,0 +1,36 @@
+{
+  "page_title": "DT 990 PRO: Open studio headphones",
+  "product_name": "beyerdynamic DT 990 PRO",
+  "rank_key": "dt 990",
+  "source_url": "https://north-america.beyerdynamic.com/dt-990-pro.html",
+  "specs": [
+    {
+      "label": "Operating principle",
+      "value": "Open"
+    },
+    {
+      "label": "Transmission type",
+      "value": "Wired"
+    },
+    {
+      "label": "Nominal impedance options",
+      "value": "80 ohms / 250 ohms"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 - 35,000 Hz"
+    },
+    {
+      "label": "Nominal sound pressure level",
+      "value": "96 dB"
+    },
+    {
+      "label": "Weight (without cable)",
+      "value": "250 g"
+    },
+    {
+      "label": "Cable & plug",
+      "value": "Straight cable (3.0 m, 80 ohms version) OR coiled cable (3.0 m, 250 ohms version); gold-plated stereo jack plug (3.5 mm) + adapter (6.35 mm)"
+    }
+  ]
+}

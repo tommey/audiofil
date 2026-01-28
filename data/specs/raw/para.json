@@ -1,0 +1,32 @@
+{
+  "page_title": "MOONDROP PARA Planar Headphone | MOONDROP Official Website",
+  "product_name": "MOONDROP PARA",
+  "rank_key": "para",
+  "source_url": "https://moondroplab.com/en/products/para",
+  "specs": [
+    {
+      "label": "Model",
+      "value": "PARA Full-size Planar Headphones"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "101 dB/Vrms (@1kHz)"
+    },
+    {
+      "label": "Impedance",
+      "value": "8\u03a9\u00b115% (@1kHz)"
+    },
+    {
+      "label": "Frequency range",
+      "value": "15-53kHz (IEC61094, Free Field)"
+    },
+    {
+      "label": "Effective frequency range",
+      "value": "20-20kHz (IEC60318-4, -3dB)"
+    },
+    {
+      "label": "Headphone jack",
+      "value": "3.5mm"
+    }
+  ]
+}

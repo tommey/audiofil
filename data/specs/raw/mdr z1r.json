@@ -1,0 +1,40 @@
+{
+  "page_title": "MDR-Z1R Specifications | Sony",
+  "product_name": "Sony MDR-Z1R",
+  "rank_key": "mdr z1r",
+  "source_url": "https://www.sony.co.id/en/electronics/support/wired-headphones-headband/mdr-z1r/specifications",
+  "specs": [
+    {
+      "label": "Dynamic Type",
+      "value": "Closed, dynamic (circum-aural)"
+    },
+    {
+      "label": "Driver Unit",
+      "value": "70 mm, dome type (CCAW Voice Coil)"
+    },
+    {
+      "label": "Impedance",
+      "value": "64 ohms at 1 kHz"
+    },
+    {
+      "label": "Sensitivities",
+      "value": "100 dB/mW"
+    },
+    {
+      "label": "Frequency Response",
+      "value": "4 Hz - 120,000 Hz"
+    },
+    {
+      "label": "Weight",
+      "value": "385 g (without cable)"
+    },
+    {
+      "label": "Cord Type",
+      "value": "Detachable Y type"
+    },
+    {
+      "label": "Cord length",
+      "value": "3.0 m cable (stereo mini plug) + 1.2 m balanced cable (balanced standard plug)"
+    }
+  ]
+}

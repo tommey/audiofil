@@ -1,0 +1,76 @@
+{
+  "rank_key": "audeze mm 500",
+  "product_name": "Audeze MM-500",
+  "page_title": "Audeze MM-500 Professional Studio Headphones for Mixing, Open-Back",
+  "source_url": "https://www.audeze.com/products/mm-500",
+  "specs": [
+    {
+      "label": "Style",
+      "value": "Over-ear, open-back"
+    },
+    {
+      "label": "Transducer type",
+      "value": "Planar Magnetic"
+    },
+    {
+      "label": "Magnetic structure",
+      "value": "Fluxor™ magnet array"
+    },
+    {
+      "label": "Phase management",
+      "value": "Fazor™"
+    },
+    {
+      "label": "Magnet type",
+      "value": "Neodymium N50"
+    },
+    {
+      "label": "Diaphragm type",
+      "value": "Ultra-Thin Uniforce™"
+    },
+    {
+      "label": "Transducer size",
+      "value": "90 mm"
+    },
+    {
+      "label": "Maximum SPL",
+      "value": ">130dB"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5Hz - 50kHz"
+    },
+    {
+      "label": "THD",
+      "value": "<0.1% @ 100 dB SPL, 1kHz"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "100 dB/1mW (at Drum Reference Point)"
+    },
+    {
+      "label": "Impedance",
+      "value": "18 ohms"
+    },
+    {
+      "label": "Max power handling",
+      "value": "5W RMS"
+    },
+    {
+      "label": "Min recommended power",
+      "value": ">100mW"
+    },
+    {
+      "label": "Recommended power level",
+      "value": ">250mW"
+    },
+    {
+      "label": "Weight",
+      "value": "495g"
+    },
+    {
+      "label": "Includes",
+      "value": "MM-500 Headphone | Braided Cable | Standard Travel Case | 1/4\" to 3.5mm adapter | Certificate of Authenticity and Warranty Cards"
+    }
+  ]
+}

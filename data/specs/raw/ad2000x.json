@@ -1,0 +1,48 @@
+{
+  "rank_key": "ad2000x",
+  "product_name": "Audio-Technica ATH-AD2000X",
+  "page_title": "Audio Technica ATH-AD2000X Open Back Headphones at AV.com",
+  "source_url": "https://www.av.com/Headphones/Audio-Technica-ATH-AD2000X-Open-Back-Headphones/5U13",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Open-air dynamic"
+    },
+    {
+      "label": "Driver Diameter",
+      "value": "53 mm"
+    },
+    {
+      "label": "Frequency Response",
+      "value": "5 - 45,000 Hz"
+    },
+    {
+      "label": "Maximum Input Power",
+      "value": "2,000 mW"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "103 dB/mW"
+    },
+    {
+      "label": "Impedance",
+      "value": "40 ohms"
+    },
+    {
+      "label": "Weight",
+      "value": "265 g"
+    },
+    {
+      "label": "Cable",
+      "value": "3.0 m dual Y-shaped cable"
+    },
+    {
+      "label": "Connector",
+      "value": "3.5 mm mini stereo, gold-plated (with 6.3 mm adapter)"
+    },
+    {
+      "label": "Features",
+      "value": "Permendur magnetic circuit, CCAW voice coils, Double Air Damping System, magnesium alloy frame, 3D Wing Support"
+    }
+  ]
+}

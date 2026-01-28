@@ -1,0 +1,40 @@
+{
+  "rank_key": "crbn",
+  "product_name": "Audeze CRBN",
+  "page_title": "CRBN Electrostatic Headphones",
+  "source_url": "https://www.audeze.com/products/crbn-electrostatic-headphones",
+  "specs": [
+    {
+      "label": "Style",
+      "value": "Over-ear, open-back"
+    },
+    {
+      "label": "Transducer type",
+      "value": "Electrostatic"
+    },
+    {
+      "label": "Diaphragm type",
+      "value": "Ultra-Thin"
+    },
+    {
+      "label": "Impedance",
+      "value": "100 kOhms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": ">120dB @ 1kHz, 100Vrms"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10Hz - 40kHz"
+    },
+    {
+      "label": "Weight",
+      "value": "470g"
+    },
+    {
+      "label": "Notes",
+      "value": "Requires electrostatic energizer/amp; carbon nanotube infused diaphragm"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "page_title": "Sony MDR-7506 Specs (B&H)",
+  "product_name": "Sony MDR-7506",
+  "rank_key": "mdr 7506",
+  "source_url": "https://www.bhphotovideo.com/c/product/803267160-USE/sony_mdr_7506_headphones.html/specs",
+  "specs": [
+    {
+      "label": "Open/Closed-Back",
+      "value": "Closed-Back"
+    },
+    {
+      "label": "Driver Type",
+      "value": "Dynamic"
+    },
+    {
+      "label": "Driver Size",
+      "value": "40 mm"
+    },
+    {
+      "label": "Impedance",
+      "value": "63 Ohms"
+    },
+    {
+      "label": "Frequency Response",
+      "value": "10 Hz to 20 kHz"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "106 dB/mW"
+    },
+    {
+      "label": "Cable Design",
+      "value": "Non-Detachable / Coiled"
+    },
+    {
+      "label": "Cable Length",
+      "value": "3 m (9.8 ft)"
+    },
+    {
+      "label": "Audio Connector",
+      "value": "3.5 mm TRS"
+    },
+    {
+      "label": "Included Adapter",
+      "value": "1/4\" TRS"
+    },
+    {
+      "label": "Weight",
+      "value": "230 g"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "page_title": "Sony MDR-V6 Professional Monitor Headphone (FocusCamera)",
+  "product_name": "Sony MDR-V6",
+  "rank_key": "v6",
+  "source_url": "https://www.focuscamera.com/sony-mdr-v6-professional-monitor-headphone.html",
+  "specs": [
+    {
+      "label": "Impedance",
+      "value": "63 Ohms"
+    },
+    {
+      "label": "Frequency Response",
+      "value": "5 - 30,000 Hz"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "106 dB/mW"
+    },
+    {
+      "label": "Connector",
+      "value": "Gold-plated 1/8\" mini plug with 1/4\" adaptor"
+    }
+  ]
+}

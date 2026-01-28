@@ -1,0 +1,48 @@
+{
+  "rank_key": "ad900x",
+  "product_name": "Audio-Technica ATH-AD900X",
+  "page_title": "High-Fidelity Open-Back Headphones - ATH-AD900X",
+  "source_url": "https://sea.audio-technica.com/type/high-fidelity-open-back-headphones",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Open-air dynamic"
+    },
+    {
+      "label": "Driver Diameter",
+      "value": "53 mm"
+    },
+    {
+      "label": "Frequency Response",
+      "value": "5 - 35,000 Hz"
+    },
+    {
+      "label": "Maximum Input Power",
+      "value": "1,000 mW"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "100 dB/mW"
+    },
+    {
+      "label": "Impedance",
+      "value": "38 ohms"
+    },
+    {
+      "label": "Weight",
+      "value": "265 g"
+    },
+    {
+      "label": "Cable",
+      "value": "3.0 m OFC single-sided cable with elastic TPE sheath"
+    },
+    {
+      "label": "Connector",
+      "value": "3.5 mm (1/8") mini stereo, gold-plated (6.3 mm adapter included)"
+    },
+    {
+      "label": "Features",
+      "value": "3D Wing Support Housing, memory foam pads, honeycomb aluminum casing, CCAW voice coils"
+    }
+  ]
+}

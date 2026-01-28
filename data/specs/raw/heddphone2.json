@@ -1,0 +1,32 @@
+{
+  "page_title": "HEDDphone TWO - HEDD Audio",
+  "product_name": "HEDDphone TWO",
+  "rank_key": "heddphone2",
+  "source_url": "https://hedd.audio/products/heddphone-two",
+  "specs": [
+    {
+      "label": "Frequency response",
+      "value": "10 Hz - 40 kHz"
+    },
+    {
+      "label": "Impedance",
+      "value": "41 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "88 dB"
+    },
+    {
+      "label": "Weight (without cable)",
+      "value": "550 g"
+    },
+    {
+      "label": "Cable",
+      "value": "2.2 m (symmetrical Y cable)"
+    },
+    {
+      "label": "Cable connectors",
+      "value": "2x 3.5mm (ear cups), 4.4mm balanced jack"
+    }
+  ]
+}

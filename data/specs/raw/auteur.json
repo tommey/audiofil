@@ -1,0 +1,40 @@
+{
+  "rank_key": "auteur",
+  "product_name": "ZMF Auteur Classic",
+  "page_title": "Auteur Classic – ZMF Headphones",
+  "source_url": "https://shop.zmfheadphones.com/products/auteur_classic",
+  "specs": [
+    {
+      "label": "Price",
+      "value": "$1,499.99"
+    },
+    {
+      "label": "Impedance",
+      "value": "300 Ohms"
+    },
+    {
+      "label": "Driver",
+      "value": "Biocellulose"
+    },
+    {
+      "label": "Weight",
+      "value": "490 g ± 30 g (aluminum)"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "~96 dB/mW"
+    },
+    {
+      "label": "Pad Bundle Options",
+      "value": "Auteur Lambskin Perf (installed); Universe Lambskin Perf; Caldera Lambskin Ultra Perf"
+    },
+    {
+      "label": "Includes",
+      "value": "Auteur Classic Maple Headphones; ZMF Stock Braided Cable; ZMF Auteur Pads; ZMF Owner's Card; ZMF Clamshell Case; Lifetime Driver Warranty"
+    },
+    {
+      "label": "Notes",
+      "value": "Stock cable ships with an alternate termination (based on current ZMF inventory); upgraded Custom Mg12 chassis is painted (not anodized) and may wear over time; only one discounted upgrade cable can be bundled per headphone (stock cable still included); fully custom cables available via the ZMF cables page"
+    }
+  ]
+}

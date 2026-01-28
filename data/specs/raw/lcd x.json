@@ -1,0 +1,40 @@
+{
+  "page_title": "LCD-X - Audeze",
+  "product_name": "Audeze LCD-X",
+  "rank_key": "lcd x",
+  "source_url": "https://www.audeze.com/products/lcd-x",
+  "specs": [
+    {
+      "label": "Style",
+      "value": "Over-ear, open-back"
+    },
+    {
+      "label": "Transducer type",
+      "value": "Planar Magnetic"
+    },
+    {
+      "label": "Phase management",
+      "value": "Fazor"
+    },
+    {
+      "label": "Transducer size",
+      "value": "106 mm"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10Hz - 50kHz"
+    },
+    {
+      "label": "Impedance",
+      "value": "20 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "103 dB/1mW (at Drum Reference Point)"
+    },
+    {
+      "label": "Weight",
+      "value": "612g"
+    }
+  ]
+}

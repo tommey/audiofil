@@ -1,0 +1,36 @@
+{
+  "page_title": "T5 - beyerdynamic",
+  "product_name": "beyerdynamic T5 (3rd generation)",
+  "rank_key": "t5p",
+  "source_url": "https://north-america.beyerdynamic.com/p/t5",
+  "specs": [
+    {
+      "label": "Operating principle",
+      "value": "Closed"
+    },
+    {
+      "label": "Nominal impedance",
+      "value": "32 ohms"
+    },
+    {
+      "label": "Headphone frequency response",
+      "value": "5 - 50,000 Hz"
+    },
+    {
+      "label": "Nominal sound pressure level",
+      "value": "100 dB (1mW)"
+    },
+    {
+      "label": "Weight (without cable)",
+      "value": "360 g"
+    },
+    {
+      "label": "Cable & Plug",
+      "value": "1.40 m straight cable (double-sided), OCC 7N copper; 3.5 mm jack plug with 6.35 mm jack adapter"
+    },
+    {
+      "label": "Made in",
+      "value": "Germany"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "page_title": "B-STOCK DT 1990 PRO",
+  "product_name": "beyerdynamic DT 1990 PRO",
+  "rank_key": "dt 1990",
+  "source_url": "https://www.beyerdynamic.com/p/b-stock-dt-1990-pro",
+  "specs": [
+    {
+      "label": "Operating principle",
+      "value": "Open"
+    },
+    {
+      "label": "Nominal impedance",
+      "value": "250 ohms"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 - 40,000 Hz"
+    },
+    {
+      "label": "Nominal sound pressure level",
+      "value": "102 dB SPL (1 mW / 500 Hz)"
+    },
+    {
+      "label": "Weight (without cable)",
+      "value": "370 g"
+    },
+    {
+      "label": "Driver diameter",
+      "value": "45 mm"
+    },
+    {
+      "label": "Cable & plug",
+      "value": "Coiled connecting cable, 3 m, 3-pin XLR plug, 3.5 mm stereo jack plug + adapter (6.35 mm)"
+    },
+    {
+      "label": "Made in",
+      "value": "Germany"
+    }
+  ]
+}

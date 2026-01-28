@@ -1,0 +1,36 @@
+{
+  "page_title": "Diana TC - High Performance Headphone - Custom",
+  "product_name": "ABYSS Diana TC (Dark Bronze)",
+  "rank_key": "dianatcbronze",
+  "source_url": "https://abyss-headphones.com/pages/en-tw/products/abyss-diana-tc-high-performance-headphone-custom",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Over-ear, open-back"
+    },
+    {
+      "label": "Driver",
+      "value": "63 mm planar magnetic, high flux, full-range"
+    },
+    {
+      "label": "Impedance",
+      "value": "69 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "90 dB/mW"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 - 50,000 Hz"
+    },
+    {
+      "label": "Weight",
+      "value": "340 g"
+    },
+    {
+      "label": "Connector",
+      "value": "Dual 3.5 mm jacks (mono) at headphone"
+    }
+  ]
+}

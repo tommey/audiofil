@@ -1,0 +1,40 @@
+{
+  "page_title": "LCD-5 - Audeze",
+  "product_name": "Audeze LCD-5",
+  "rank_key": "lcd 5",
+  "source_url": "https://www.audeze.com/products/lcd-5",
+  "specs": [
+    {
+      "label": "Style",
+      "value": "Over-ear, open-back"
+    },
+    {
+      "label": "Transducer type",
+      "value": "Planar Magnetic"
+    },
+    {
+      "label": "Phase management",
+      "value": "Fazor"
+    },
+    {
+      "label": "Transducer size",
+      "value": "90 mm"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5Hz - 50kHz"
+    },
+    {
+      "label": "Impedance",
+      "value": "14 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "90 dB/1mW (at Drum Reference Point)"
+    },
+    {
+      "label": "Weight",
+      "value": "420g"
+    }
+  ]
+}

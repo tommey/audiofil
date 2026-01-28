@@ -1,0 +1,40 @@
+{
+  "page_title": "Shure SRH1840 (Thomann)",
+  "product_name": "Shure SRH1840",
+  "rank_key": "srh 1840",
+  "source_url": "https://www.thomannmusic.com/shure_srh1840.htm",
+  "specs": [
+    {
+      "label": "System",
+      "value": "Open"
+    },
+    {
+      "label": "Type",
+      "value": "Dynamic"
+    },
+    {
+      "label": "Nominal impedance",
+      "value": "65 Ohm"
+    },
+    {
+      "label": "Frequency range",
+      "value": "10 - 30,000 Hz"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "96 dB"
+    },
+    {
+      "label": "Cable",
+      "value": "Detachable; 2.1 m"
+    },
+    {
+      "label": "Connector",
+      "value": "3.5 mm + screw-on 6.3 mm adapter"
+    },
+    {
+      "label": "Weight (without cable)",
+      "value": "269 g"
+    }
+  ]
+}

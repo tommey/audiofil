@@ -1,0 +1,44 @@
+{
+  "page_title": "Focal Elear | Headphone Shop",
+  "product_name": "Focal Elear",
+  "rank_key": "elear",
+  "source_url": "https://headphone.shop/product/focal-elear/",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Circum-aural open-back headphones"
+    },
+    {
+      "label": "Impedance",
+      "value": "80 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "104 dB SPL / 1 mW @ 1 kHz"
+    },
+    {
+      "label": "THD",
+      "value": "<0.3% @ 1 kHz / 100 dB SPL"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 Hz - 23 kHz"
+    },
+    {
+      "label": "Driver",
+      "value": "40 mm Aluminum-Magnesium \"M\" shape dome"
+    },
+    {
+      "label": "Weight",
+      "value": "450 g"
+    },
+    {
+      "label": "Cable length",
+      "value": "3 m"
+    },
+    {
+      "label": "Connectors",
+      "value": "1 x 6.35 mm stereo jack; 2 x 3.5 mm jack"
+    }
+  ]
+}

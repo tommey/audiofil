@@ -1,0 +1,68 @@
+{
+  "page_title": "MM-100 Professional Headphones - Audeze",
+  "product_name": "Audeze MM-100",
+  "rank_key": "mm100",
+  "source_url": "https://www.audeze.com/products/mm-100",
+  "specs": [
+    {
+      "label": "Style",
+      "value": "Over-ear, open-back"
+    },
+    {
+      "label": "Transducer type",
+      "value": "Planar Magnetic"
+    },
+    {
+      "label": "Magnetic structure",
+      "value": "Fluxor magnet array"
+    },
+    {
+      "label": "Phase management",
+      "value": "Fazor"
+    },
+    {
+      "label": "Magnet type",
+      "value": "Neodymium N50"
+    },
+    {
+      "label": "Diaphragm type",
+      "value": "Ultra-Thin Uniforce"
+    },
+    {
+      "label": "Transducer size",
+      "value": "90 mm"
+    },
+    {
+      "label": "Maximum SPL",
+      "value": ">120dB"
+    },
+    {
+      "label": "Frequency response",
+      "value": "20Hz - 25kHz"
+    },
+    {
+      "label": "THD",
+      "value": "<0.1% @ 100 dB SPL, 1kHz"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "98 dB/1mW (at Drum Reference Point)"
+    },
+    {
+      "label": "Impedance",
+      "value": "18 ohms"
+    },
+    {
+      "label": "Max power handling",
+      "value": "5W RMS"
+    },
+    {
+      "label": "Cable",
+      "value": "2.5m (8.2ft) Single ended 3.5mm TRS to 1/4\" TRS"
+    },
+    {
+      "label": "Weight",
+      "value": "475g"
+    }
+  ]
+}

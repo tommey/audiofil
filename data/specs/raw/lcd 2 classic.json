@@ -1,0 +1,32 @@
+{
+  "page_title": "LCD-2 Classic | Audeze",
+  "product_name": "Audeze LCD-2 Classic",
+  "rank_key": "lcd 2 classic",
+  "source_url": "https://www.audeze.com/products/lcd-2-classic",
+  "specs": [
+    {
+      "label": "Style",
+      "value": "Over-ear, open-back"
+    },
+    {
+      "label": "Transducer type",
+      "value": "Planar Magnetic"
+    },
+    {
+      "label": "Impedance",
+      "value": "70 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "101 dB/1mW (at Drum Reference Point)"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10Hz - 50kHz"
+    },
+    {
+      "label": "Weight",
+      "value": "544 g"
+    }
+  ]
+}

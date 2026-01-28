@@ -1,0 +1,36 @@
+{
+  "page_title": "DT 900 PRO X: Open studio headphones for mixing and mastering",
+  "product_name": "beyerdynamic DT 900 PRO X",
+  "rank_key": "dt 900 pro x",
+  "source_url": "https://north-america.beyerdynamic.com/dt-900-pro-x.html",
+  "specs": [
+    {
+      "label": "Operating principle",
+      "value": "Open"
+    },
+    {
+      "label": "Transmission type",
+      "value": "Wired"
+    },
+    {
+      "label": "Nominal impedance",
+      "value": "48 ohms"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 - 40,000 Hz"
+    },
+    {
+      "label": "Nominal sound pressure level",
+      "value": "100 dB SPL (1 mW / 500 Hz)"
+    },
+    {
+      "label": "Weight (without cable)",
+      "value": "345 g"
+    },
+    {
+      "label": "Cable & plug",
+      "value": "Mini-XLR cable detachable (3 m) + stereo jack plug (3.5 mm) & adapter (6.35 mm)"
+    }
+  ]
+}

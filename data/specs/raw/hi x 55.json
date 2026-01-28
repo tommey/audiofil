@@ -1,0 +1,44 @@
+{
+  "page_title": "Hi-X55 - Austrian Audio",
+  "product_name": "Austrian Audio Hi-X55",
+  "rank_key": "hi x 55",
+  "source_url": "https://austrian.audio/product/hi-x55/",
+  "specs": [
+    {
+      "label": "Frequency range",
+      "value": "5Hz - 28kHz"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "118dBspl/V"
+    },
+    {
+      "label": "THD (@1kHz)",
+      "value": "<0.1%"
+    },
+    {
+      "label": "Impedance",
+      "value": "25\u03a9"
+    },
+    {
+      "label": "Input power",
+      "value": "150mW"
+    },
+    {
+      "label": "Cable",
+      "value": "Detachable 3m"
+    },
+    {
+      "label": "Connector",
+      "value": "3.5mm (1/8\")"
+    },
+    {
+      "label": "Adapter",
+      "value": "3.5mm to 6.3mm"
+    },
+    {
+      "label": "Weight (without cable)",
+      "value": "305g"
+    }
+  ]
+}

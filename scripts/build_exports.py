@@ -10,6 +10,7 @@ OUT_PATH = ROOT / "data/exports/headphones_full.json"
 
 REQUIRED_RANKED_COLUMNS = {"headphone", "avg_rank", "sources"}
 REQUIRED_SPECS_COLUMNS = {
+    "rank_key",
     "headphone",
     "brand",
     "model",
@@ -73,28 +74,32 @@ def build_exports():
     _require_columns(ranked_columns, REQUIRED_RANKED_COLUMNS, "ranked.csv")
     _require_columns(specs_columns, REQUIRED_SPECS_COLUMNS, "headphones_specs.csv")
 
-    specs_by_headphone = {row["headphone"].strip(): row for row in specs_rows if row.get("headphone")}
+    specs_by_key = {}
+    for row in specs_rows:
+        key = (row.get("rank_key") or row.get("headphone") or "").strip()
+        if key:
+            specs_by_key[key] = row
     ranked_by_headphone = {
         row["headphone"].strip(): row for row in ranked_rows if row.get("headphone")
     }
 
     all_headphones = sorted(
-        set(specs_by_headphone) | set(ranked_by_headphone), key=lambda name: name.lower()
+        set(specs_by_key) | set(ranked_by_headphone), key=lambda name: name.lower()
     )
 
     records = []
     for headphone in all_headphones:
         ranked = ranked_by_headphone.get(headphone, {})
-        specs = specs_by_headphone.get(headphone, {})
+        specs = specs_by_key.get(headphone, {})
 
         record = {
-            "headphone": headphone,
+            "headphone": specs.get("headphone", "").strip() if specs else headphone,
             "avg_rank": _parse_number(ranked.get("avg_rank", "")),
             "sources": _parse_number(ranked.get("sources", "")),
         }
 
         for field in REQUIRED_SPECS_COLUMNS:
-            if field == "headphone":
+            if field in {"rank_key", "headphone"}:
                 continue
             value = specs.get(field, "").strip() if specs else ""
             if field in NUMERIC_FIELDS:

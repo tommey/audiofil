@@ -1,0 +1,56 @@
+{
+  "rank_key": "clear",
+  "product_name": "Focal Clear",
+  "page_title": "CLEAR - Product Data Sheet",
+  "source_url": "https://dam.focal-naim.com/m/b76a115af3c9428/original/FP_Clear_GB-pdf.pdf",
+  "specs": [
+    {
+      "label": "Product type",
+      "value": "Circum-aural open-back headphones"
+    },
+    {
+      "label": "Impedance",
+      "value": "55 Ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "104dB SPL / 1mW @ 1kHz"
+    },
+    {
+      "label": "THD",
+      "value": "0,25% @ 1kHz / 100dB SPL"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5Hz-28kHz"
+    },
+    {
+      "label": "Loudspeaker",
+      "value": "1.6\" (40mm) Aluminum/Magnesium 'M'-shape dome"
+    },
+    {
+      "label": "Weight",
+      "value": "0.99lb / 450g"
+    },
+    {
+      "label": "Carrying case included",
+      "value": "Yes (hard-shell)"
+    },
+    {
+      "label": "Carrying case height",
+      "value": "9.8\" (250mm)"
+    },
+    {
+      "label": "Carrying case width",
+      "value": "9.4\" (240mm)"
+    },
+    {
+      "label": "Carrying case depth",
+      "value": "4.7\" (120mm)"
+    },
+    {
+      "label": "Cables provided",
+      "value": "3m balanced cable (XLR 4-pin); 3m unbalanced cable (1/4\" TRS jack); 1.2m unbalanced cable (1/8\" TRS jack); 1/8\" jack to 1/4\" stereo jack adapter"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "page_title": "Massdrop x AKG K7XX Audiophile Headphones | Drop",
+  "product_name": "Massdrop x AKG K7XX",
+  "rank_key": "k7xx",
+  "source_url": "https://drop.com/buy/massdrop-akg-k7xx-red-headphones",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Open-back, over-ear"
+    },
+    {
+      "label": "Driver size",
+      "value": "45 mm"
+    },
+    {
+      "label": "Impedance",
+      "value": "62 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "105 dB SPL/V"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10 - 39,800 Hz"
+    },
+    {
+      "label": "Weight (without cable)",
+      "value": "235 g"
+    },
+    {
+      "label": "Cable",
+      "value": "Detachable 3 m (mini XLR)"
+    },
+    {
+      "label": "Connector",
+      "value": "3.5 mm + 6.35 mm adapter"
+    }
+  ]
+}

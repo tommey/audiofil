@@ -1,0 +1,24 @@
+{
+  "page_title": "Empyrean II - Meze Audio",
+  "product_name": "Meze Empyrean II",
+  "rank_key": "empyrean 2",
+  "source_url": "https://mezeaudio.com/products/empyrean-ii",
+  "specs": [
+    {
+      "label": "Frequency range",
+      "value": "8 Hz - 110 kHz"
+    },
+    {
+      "label": "Impedance",
+      "value": "30 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "105 dB/mW at 1 kHz"
+    },
+    {
+      "label": "Weight",
+      "value": "385 g"
+    }
+  ]
+}

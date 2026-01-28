@@ -1,0 +1,52 @@
+{
+  "rank_key": "ad1000x",
+  "product_name": "Audio-Technica ATH-AD1000X",
+  "page_title": "Audiophile Open-Air Dynamic Headphones ATH-AD1000X",
+  "source_url": "https://sea.audio-technica.com/audiophile-open-air-dynamic-headphones",
+  "specs": [
+    {
+      "label": "Price",
+      "value": "$599"
+    },
+    {
+      "label": "Type",
+      "value": "Open-air dynamic"
+    },
+    {
+      "label": "Driver Diameter",
+      "value": "53 mm"
+    },
+    {
+      "label": "Frequency Response",
+      "value": "5 – 40,000 Hz"
+    },
+    {
+      "label": "Maximum Input Power",
+      "value": "2,000 mW"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "102 dB/mW"
+    },
+    {
+      "label": "Impedance",
+      "value": "40 ohms"
+    },
+    {
+      "label": "Weight",
+      "value": "265 g"
+    },
+    {
+      "label": "Cable",
+      "value": "3.0 m Y-shaped cables" 
+    },
+    {
+      "label": "Connector",
+      "value": "3.5 mm mini stereo, gold-plated (includes 6.3 mm adapter)"
+    },
+    {
+      "label": "Features",
+      "value": "Large 53 mm aperture drivers with CCAW voice coils, 3D Wing Support housing, lightweight aluminum honeycomb frame"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "rank_key": "athena",
+  "product_name": "HarmonicDyne Athena",
+  "page_title": "HarmonicDyne Athena",
+  "source_url": "https://blog.ear-phone-review.com/entry/news/HarmonicDyne_Athena",
+  "specs": [
+    {
+      "label": "Driver",
+      "value": "Φ50mm Metal-Ceramic Composite Dynamic Driver"
+    },
+    {
+      "label": "Acoustic architecture",
+      "value": "Semi-closed (semi-open) over-ear"
+    },
+    {
+      "label": "Impedance",
+      "value": "34Ω@1KHz"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "116.5dB/Vrms@1KHz"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10-70KHz (Free Field)"
+    },
+    {
+      "label": "THD",
+      "value": "0.2%@1KHz 100dB SPL"
+    },
+    {
+      "label": "Cable",
+      "value": "3.5mm Stereo Cable (custom coaxial OCC)"
+    },
+    {
+      "label": "Connector",
+      "value": "3.5mm plus 6.35mm adapter"
+    },
+    {
+      "label": "Ear-pads",
+      "value": "Suede Fabric"
+    },
+    {
+      "label": "Dimensions",
+      "value": "210 x 175 x 105 mm"
+    },
+    {
+      "label": "Weight",
+      "value": "320g"
+    },
+    {
+      "label": "Price",
+      "value": "$179 USD"
+    }
+  ]
+}

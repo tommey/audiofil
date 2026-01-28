@@ -1,0 +1,44 @@
+{
+  "page_title": "SONY MDR-M1ST (Sound House)",
+  "product_name": "Sony MDR-M1ST",
+  "rank_key": "m1st",
+  "source_url": "https://www.soundhouse.co.jp/en/products/detail/item/265664/",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Dynamic, closed-back"
+    },
+    {
+      "label": "Driver unit",
+      "value": "40 mm, dome type (CCAW voice coil)"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "103 dB/mW"
+    },
+    {
+      "label": "Magnet",
+      "value": "Neodymium"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 - 80,000 Hz (JEITA)"
+    },
+    {
+      "label": "Impedance",
+      "value": "24 ohms"
+    },
+    {
+      "label": "Maximum input",
+      "value": "1,500 mW (IEC)"
+    },
+    {
+      "label": "Headphone cable",
+      "value": "Approx. 2.5 m, stereo standard plug"
+    },
+    {
+      "label": "Weight",
+      "value": "Approx. 215 g (excluding cable)"
+    }
+  ]
+}

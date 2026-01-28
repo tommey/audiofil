@@ -1,0 +1,40 @@
+{
+  "page_title": "Audio-Technica ATH-M40X Overview (B&H)",
+  "product_name": "Audio-Technica ATH-M40x",
+  "rank_key": "m40x",
+  "source_url": "https://www.bhphotovideo.com/c/product/1024221-REG/audio_technica_ath_m40x_closed_back_professional_studio.html/overview",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Closed-back dynamic"
+    },
+    {
+      "label": "Driver size",
+      "value": "40 mm"
+    },
+    {
+      "label": "Impedance",
+      "value": "35 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "98 dB"
+    },
+    {
+      "label": "Frequency response",
+      "value": "15 Hz - 24 kHz"
+    },
+    {
+      "label": "Max power handling",
+      "value": "1600 mW"
+    },
+    {
+      "label": "Cable",
+      "value": "Detachable; 3 m (straight); 1.2-3.0 m (coiled)"
+    },
+    {
+      "label": "Weight",
+      "value": "241 g (without cable)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "page_title": "Utopia - Reference open-back hi-fi headphones | Focal",
+  "product_name": "Focal Utopia",
+  "rank_key": "utwopia",
+  "source_url": "https://www.focal.com/products/utopia",
+  "specs": [
+    {
+      "label": "Note",
+      "value": "Rank key appears to be a typo of utopia; using same specs as Utopia."
+    },
+    {
+      "label": "Impedance",
+      "value": "80 \u03a9"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "104 dB SPL / 1 mW @ 1 kHz"
+    },
+    {
+      "label": "Frequency response (+/- 3dB)",
+      "value": "5 Hz \u2013 50 kHz"
+    },
+    {
+      "label": "Weight",
+      "value": "490 g"
+    }
+  ]
+}

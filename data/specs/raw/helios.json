@@ -1,0 +1,44 @@
+{
+  "page_title": "HarmonicDyne Helios Headphones | Drop",
+  "product_name": "HarmonicDyne Helios",
+  "rank_key": "helios",
+  "source_url": "https://drop.com/buy/harmonicdyne-helios-headphones",
+  "specs": [
+    {
+      "label": "Headphone type",
+      "value": "Open-back"
+    },
+    {
+      "label": "Ear coupling",
+      "value": "Over-ear"
+    },
+    {
+      "label": "Drivers",
+      "value": "50 mm composite dynamic drivers"
+    },
+    {
+      "label": "Impedance",
+      "value": "16 ohms"
+    },
+    {
+      "label": "THD",
+      "value": "<1% (1000 Hz, 1mW)"
+    },
+    {
+      "label": "Plug",
+      "value": "3.5 mm"
+    },
+    {
+      "label": "Cable length",
+      "value": "2 m"
+    },
+    {
+      "label": "Weight (without cable)",
+      "value": "360 g"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10Hz \u2013 40kHz (from Headphonesty review)"
+    }
+  ]
+}

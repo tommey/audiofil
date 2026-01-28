@@ -1,0 +1,16 @@
+{
+  "page_title": "SR1a Earfield Monitor - RAAL-requisite",
+  "product_name": "RAAL-requisite SR1a",
+  "rank_key": "sr1a",
+  "source_url": "https://raalrequisite.com/products/sr1a-earfield-monitors",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Open-baffle ribbon earfield monitor"
+    },
+    {
+      "label": "Note",
+      "value": "Requires interface/amp; specs vary depending on interface."
+    }
+  ]
+}

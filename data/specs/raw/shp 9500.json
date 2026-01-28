@@ -1,0 +1,52 @@
+{
+  "page_title": "Philips SHP9500 Specs (B&H)",
+  "product_name": "Philips SHP9500/00",
+  "rank_key": "shp 9500",
+  "source_url": "https://www.bhphotovideo.com/c/product/1569207-REG/philips_shp9500_00_hifi_stereo_headphones.html",
+  "specs": [
+    {
+      "label": "Open/Closed-Back",
+      "value": "Open-Back"
+    },
+    {
+      "label": "Driver Type",
+      "value": "Dynamic"
+    },
+    {
+      "label": "Driver Size",
+      "value": "50 mm"
+    },
+    {
+      "label": "Impedance",
+      "value": "32 Ohms"
+    },
+    {
+      "label": "Frequency Response",
+      "value": "12 Hz to 35 kHz (Wired)"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "101 dB"
+    },
+    {
+      "label": "Maximum Power Handling",
+      "value": "200 mW"
+    },
+    {
+      "label": "Audio Connector",
+      "value": "1x 3.5 mm TRS"
+    },
+    {
+      "label": "Included Adapter",
+      "value": "1/4\" TRS"
+    },
+    {
+      "label": "Cable Design",
+      "value": "Single-Sided"
+    },
+    {
+      "label": "Cable Length",
+      "value": "3 m"
+    }
+  ]
+}

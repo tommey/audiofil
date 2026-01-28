@@ -1,0 +1,36 @@
+{
+  "page_title": "MDR-ZX110 | Sony",
+  "product_name": "Sony MDR-ZX110",
+  "rank_key": "zx110",
+  "source_url": "https://www.sony.com.ph/electronics/headband-headphones/mdr-zx110",
+  "specs": [
+    {
+      "label": "Driver unit",
+      "value": "30mm, dome type"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "98 dB/mW"
+    },
+    {
+      "label": "Frequency response",
+      "value": "12-22,000 Hz"
+    },
+    {
+      "label": "Impedance",
+      "value": "24 ohm (1KHz)"
+    },
+    {
+      "label": "Weight",
+      "value": "Approx. 120g"
+    },
+    {
+      "label": "Cord length",
+      "value": "Approx. 1.2m"
+    },
+    {
+      "label": "Plug",
+      "value": "Gold-plated L-shaped stereo mini plug"
+    }
+  ]
+}

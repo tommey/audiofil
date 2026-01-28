@@ -1,0 +1,48 @@
+{
+  "page_title": "Focal Radiance",
+  "product_name": "Focal Radiance",
+  "rank_key": "focal radiance",
+  "source_url": "https://www.focalnaimaudio.com/products/focal-radiance",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Closed-back headphones"
+    },
+    {
+      "label": "Driver",
+      "value": "40mm Aluminum/Magnesium \"M\"-shaped dome"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "101 dB SPL / 1 mW @ 1 kHz"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 Hz - 23 kHz"
+    },
+    {
+      "label": "Impedance",
+      "value": "35 ohms"
+    },
+    {
+      "label": "THD",
+      "value": "0.3% @ 1 kHz / 100 dB SPL"
+    },
+    {
+      "label": "Weight",
+      "value": "435 g"
+    },
+    {
+      "label": "Cable 1",
+      "value": "1.2 m (3.5mm TRS with control/mic) with 3.5mm female -> 6.35mm male adapter"
+    },
+    {
+      "label": "Cable 2",
+      "value": "3 m 3.5mm TRS cable"
+    },
+    {
+      "label": "Case dimensions",
+      "value": "24 x 21 x 7 cm"
+    }
+  ]
+}

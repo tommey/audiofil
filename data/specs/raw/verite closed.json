@@ -1,0 +1,28 @@
+{
+  "page_title": "ZMF Verite Closed - ZMF Headphones",
+  "product_name": "ZMF Verite Closed",
+  "rank_key": "verite closed",
+  "source_url": "https://shop.zmfheadphones.com/products/verite-closed",
+  "specs": [
+    {
+      "label": "Driver",
+      "value": "Dynamic biocellulose (ZMF) (per product page)"
+    },
+    {
+      "label": "Impedance",
+      "value": "300 Ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "99 dB/mW"
+    },
+    {
+      "label": "Frequency Response",
+      "value": "10Hz-25kHz"
+    },
+    {
+      "label": "Weight",
+      "value": "480 g (w/o cable)"
+    }
+  ]
+}

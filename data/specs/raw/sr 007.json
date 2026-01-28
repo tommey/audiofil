@@ -1,0 +1,36 @@
+{
+  "page_title": "SR-007MK2 | STAX",
+  "product_name": "STAX SR-007MK2",
+  "rank_key": "sr 007",
+  "source_url": "https://stax.jp/archives/4214",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Earspeaker (electrostatic, push-pull)"
+    },
+    {
+      "label": "Frequency response",
+      "value": "6 - 41,000 Hz"
+    },
+    {
+      "label": "Capacitance",
+      "value": "110 pF (including cable)"
+    },
+    {
+      "label": "Impedance",
+      "value": "145,000 ohms (including cable) at 10kHz"
+    },
+    {
+      "label": "Sound pressure level",
+      "value": "100 dB/100V rms at 1kHz"
+    },
+    {
+      "label": "Bias voltage",
+      "value": "580V DC"
+    },
+    {
+      "label": "Mass",
+      "value": "365 g (without cable)"
+    }
+  ]
+}

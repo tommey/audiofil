@@ -1,0 +1,36 @@
+{
+  "page_title": "HarmonicDyne Zeus \u2013 Linsoul Audio",
+  "product_name": "HarmonicDyne Zeus",
+  "rank_key": "zeus",
+  "source_url": "https://www.linsoul.com/products/harmonicdyne-zeus",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Open-back, over-ear, dynamic"
+    },
+    {
+      "label": "Drivers",
+      "value": "50mm beryllium dynamic"
+    },
+    {
+      "label": "Impedance",
+      "value": "64\u03a9"
+    },
+    {
+      "label": "SPL",
+      "value": "100+3dB"
+    },
+    {
+      "label": "THD",
+      "value": "\u22640.2% (1000Hz, 254mW)"
+    },
+    {
+      "label": "Cable",
+      "value": "OCC cable, 150cm"
+    },
+    {
+      "label": "Weight",
+      "value": "about 380g"
+    }
+  ]
+}

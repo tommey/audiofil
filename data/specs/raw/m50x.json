@@ -1,0 +1,36 @@
+{
+  "page_title": "ATH-M50xSTS Specifications (Audio-Technica Japan)",
+  "product_name": "Audio-Technica ATH-M50x",
+  "rank_key": "m50x",
+  "source_url": "https://www.audio-technica.co.jp/document/ATH-M50xSTS/en/Content/Wired/ATH-M50xSTS/specifications/spec-headphones.html",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Closed-back dynamic"
+    },
+    {
+      "label": "Driver",
+      "value": "45 mm"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "99 dB/mW"
+    },
+    {
+      "label": "Frequency response",
+      "value": "15 to 28,000 Hz"
+    },
+    {
+      "label": "Maximum input power",
+      "value": "1,600 mW"
+    },
+    {
+      "label": "Impedance",
+      "value": "38 ohms"
+    },
+    {
+      "label": "Weight",
+      "value": "285 g (without cable)"
+    }
+  ]
+}

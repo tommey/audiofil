@@ -1,0 +1,40 @@
+{
+  "page_title": "MDR-MV1 Specifications | Sony",
+  "product_name": "Sony MDR-MV1",
+  "rank_key": "mv1",
+  "source_url": "https://www.sony.co.in/electronics/support/wired-headphones-headband/mdr-mv1/specifications",
+  "specs": [
+    {
+      "label": "Headphone type",
+      "value": "Open back, dynamic"
+    },
+    {
+      "label": "Driver unit",
+      "value": "40 mm"
+    },
+    {
+      "label": "Impedance",
+      "value": "24 ohms at 1 kHz"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "100 dB/mW"
+    },
+    {
+      "label": "Frequency response",
+      "value": "5 Hz - 80,000 Hz (IEC)"
+    },
+    {
+      "label": "Weight",
+      "value": "Approx. 223 g without cable"
+    },
+    {
+      "label": "Cord type",
+      "value": "Detachable"
+    },
+    {
+      "label": "Cord length",
+      "value": "Headphone cable ~2.5 m; plug adapter ~20 cm"
+    }
+  ]
+}

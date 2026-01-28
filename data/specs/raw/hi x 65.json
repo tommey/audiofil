@@ -1,0 +1,44 @@
+{
+  "page_title": "Hi-X65 - Austrian Audio",
+  "product_name": "Austrian Audio Hi-X65",
+  "rank_key": "hi x 65",
+  "source_url": "https://austrian.audio/product/hi-x65/",
+  "specs": [
+    {
+      "label": "Frequency range",
+      "value": "5kHz - 28kHz"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "110dBspl/V"
+    },
+    {
+      "label": "THD (@1kHz)",
+      "value": "<0.1%"
+    },
+    {
+      "label": "Impedance",
+      "value": "25\u03a9"
+    },
+    {
+      "label": "Input power",
+      "value": "150mW"
+    },
+    {
+      "label": "2 Cables",
+      "value": "Detachable 3m + 1.2m"
+    },
+    {
+      "label": "Connector",
+      "value": "3.5mm (1/8\")"
+    },
+    {
+      "label": "Adapter",
+      "value": "3.5mm to 6.3mm"
+    },
+    {
+      "label": "Weight (without cable)",
+      "value": "310g"
+    }
+  ]
+}

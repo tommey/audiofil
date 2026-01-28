@@ -1,0 +1,40 @@
+{
+  "page_title": "AKG K701 (Audio46)",
+  "product_name": "AKG K701",
+  "rank_key": "k701",
+  "source_url": "https://audio46.com/products/akg-k701-open-back-over-ear-studio-headphones",
+  "specs": [
+    {
+      "label": "Type",
+      "value": "Open-back, over-ear"
+    },
+    {
+      "label": "Driver size",
+      "value": "45 mm"
+    },
+    {
+      "label": "Impedance",
+      "value": "62 ohms"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "105 dB/V"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10 - 39,800 Hz"
+    },
+    {
+      "label": "Weight (without cable)",
+      "value": "235 g"
+    },
+    {
+      "label": "Cable",
+      "value": "3 m (fixed)"
+    },
+    {
+      "label": "Connector",
+      "value": "3.5 mm + 6.3 mm adapter"
+    }
+  ]
+}

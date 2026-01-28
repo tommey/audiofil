@@ -1,0 +1,44 @@
+{
+  "rank_key": "ananda stealth",
+  "product_name": "HIFIMAN Ananda Stealth",
+  "page_title": "HIFIMAN Ananda Stealth",
+  "source_url": "https://www.headamp.com/products/hifiman-ananda",
+  "specs": [
+    {
+      "label": "Price",
+      "value": "$699"
+    },
+    {
+      "label": "Driver",
+      "value": "NsD supernano diaphragm with Stealth magnets"
+    },
+    {
+      "label": "Frequency response",
+      "value": "8 Hz - 55 kHz"
+    },
+    {
+      "label": "Impedance",
+      "value": "16 Ω"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "93 dB"
+    },
+    {
+      "label": "Weight",
+      "value": "399 g"
+    },
+    {
+      "label": "Cable",
+      "value": "1.5 m 3.5 mm single-ended cable plus 3 m 6.35 mm cable"
+    },
+    {
+      "label": "Connector",
+      "value": "Dual 3.5 mm connectors"
+    },
+    {
+      "label": "Notes",
+      "value": "Window-shade grill, asymmetric cups, hybrid headband"
+    }
+  ]
+}
