@@ -27,6 +27,10 @@
     {
       "label": "Cable connectors",
       "value": "2x 3.5mm (ear cups), 4.4mm balanced jack"
+    },
+    {
+      "label": "Driver size",
+      "value": "87 x 67 mm"
     }
   ]
 }

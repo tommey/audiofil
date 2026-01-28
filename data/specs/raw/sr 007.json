@@ -31,6 +31,10 @@
     {
       "label": "Mass",
       "value": "365 g (without cable)"
+    },
+    {
+      "label": "Radiating area",
+      "value": "3.5-inch (90mm) radiating area"
     }
   ]
 }

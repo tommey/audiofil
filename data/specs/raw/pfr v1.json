@@ -43,6 +43,10 @@
     {
       "label": "Supplied accessories",
       "value": "Extension cord, carrying case, user manual"
+    },
+    {
+      "label": "Driver size",
+      "value": "16 mm"
     }
   ]
 }

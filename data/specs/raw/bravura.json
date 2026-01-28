@@ -31,7 +31,14 @@
     {
       "label": "Power Input",
       "value": "IEC AC inlet with integrated fuse and voltage selector"
+    },
+    {
+      "label": "Effective diaphragm area",
+      "value": "3570 mm²"
+    },
+    {
+      "label": "Driver size (equivalent diameter, derived)",
+      "value": "~67.4 mm (derived from effective diaphragm area 3570 mm² assuming circular diaphragm)"
     }
   ]
 }
-

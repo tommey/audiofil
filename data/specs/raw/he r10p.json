@@ -14,7 +14,7 @@
     },
     {
       "label": "Impedance",
-      "value": "30\u03a9"
+      "value": "30Ω"
     },
     {
       "label": "Sensitivity",
@@ -27,6 +27,10 @@
     {
       "label": "Socket",
       "value": "3.5mm Balanced"
+    },
+    {
+      "label": "Driver size",
+      "value": "100 x 75 mm"
     }
   ]
 }

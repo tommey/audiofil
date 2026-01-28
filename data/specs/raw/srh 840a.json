@@ -23,6 +23,10 @@
     {
       "label": "Weight",
       "value": "273 g"
+    },
+    {
+      "label": "Driver size",
+      "value": "40 mm"
     }
   ]
 }

@@ -31,6 +31,10 @@
     {
       "label": "MSRP",
       "value": "US$3,999"
+    },
+    {
+      "label": "Driver size",
+      "value": "76 x 51 mm"
     }
   ]
 }

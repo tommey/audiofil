@@ -31,6 +31,10 @@
     {
       "label": "Cable",
       "value": "Detachable; 3.5 mm stereo phone plug"
+    },
+    {
+      "label": "Driver size",
+      "value": "50 mm"
     }
   ]
 }

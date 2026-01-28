@@ -10,7 +10,7 @@
     },
     {
       "label": "Impedance",
-      "value": "50\u03a9"
+      "value": "50Ω"
     },
     {
       "label": "Sensitivity",
@@ -39,6 +39,10 @@
     {
       "label": "Housing",
       "value": "Damped semi-open"
+    },
+    {
+      "label": "Driver size",
+      "value": "50 mm"
     }
   ]
 }

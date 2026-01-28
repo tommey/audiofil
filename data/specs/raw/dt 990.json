@@ -31,6 +31,10 @@
     {
       "label": "Cable & plug",
       "value": "Straight cable (3.0 m, 80 ohms version) OR coiled cable (3.0 m, 250 ohms version); gold-plated stereo jack plug (3.5 mm) + adapter (6.35 mm)"
+    },
+    {
+      "label": "Driver size",
+      "value": "45 mm"
     }
   ]
 }

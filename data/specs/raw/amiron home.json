@@ -59,6 +59,10 @@
     {
       "label": "EAN",
       "value": "4010118717529"
+    },
+    {
+      "label": "Driver size",
+      "value": "45 mm"
     }
   ]
 }

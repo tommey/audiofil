@@ -23,6 +23,10 @@
     {
       "label": "Frequency response",
       "value": "10 Hz - 45 kHz"
+    },
+    {
+      "label": "Driver size",
+      "value": "71 x 45 mm"
     }
   ]
 }

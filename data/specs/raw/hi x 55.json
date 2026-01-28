@@ -18,7 +18,7 @@
     },
     {
       "label": "Impedance",
-      "value": "25\u03a9"
+      "value": "25Ω"
     },
     {
       "label": "Input power",
@@ -39,6 +39,10 @@
     {
       "label": "Weight (without cable)",
       "value": "305g"
+    },
+    {
+      "label": "Driver size",
+      "value": "44 mm"
     }
   ]
 }

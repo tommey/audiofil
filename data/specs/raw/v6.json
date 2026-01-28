@@ -19,6 +19,10 @@
     {
       "label": "Connector",
       "value": "Gold-plated 1/8\" mini plug with 1/4\" adaptor"
+    },
+    {
+      "label": "Driver size",
+      "value": "40 mm"
     }
   ]
 }

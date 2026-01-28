@@ -4,11 +4,33 @@
   "page_title": "D8000 Pro Edition | final",
   "source_url": "https://snext-final.com/en/products/detail/D8000pro",
   "specs": [
-    {"label":"Driver","value":"AFDS Planer Magnetic"},
-    {"label":"Impedance","value":"60 Ω"},
-    {"label":"Sensitivity","value":"98 dB/mW"},
-    {"label":"Weight","value":"523 g"},
-    {"label":"Cable","value":"OFC black 1.5 m (3.5mm) / OFC silver coated 3 m (6.3mm)"},
-    {"label":"Housing","value":"Aluminum magnesium alloy"}
+    {
+      "label": "Driver",
+      "value": "AFDS Planer Magnetic"
+    },
+    {
+      "label": "Impedance",
+      "value": "60 Ω"
+    },
+    {
+      "label": "Sensitivity",
+      "value": "98 dB/mW"
+    },
+    {
+      "label": "Weight",
+      "value": "523 g"
+    },
+    {
+      "label": "Cable",
+      "value": "OFC black 1.5 m (3.5mm) / OFC silver coated 3 m (6.3mm)"
+    },
+    {
+      "label": "Housing",
+      "value": "Aluminum magnesium alloy"
+    },
+    {
+      "label": "Driver size",
+      "value": "50 mm"
+    }
   ]
 }

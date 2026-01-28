@@ -31,6 +31,10 @@
     {
       "label": "Cable",
       "value": "Detachable; dual 3.5 mm entry sockets; cable terminated to 3.5mm with 1/4\" adapter (included)"
+    },
+    {
+      "label": "Driver size",
+      "value": "90 x 70 mm"
     }
   ]
 }

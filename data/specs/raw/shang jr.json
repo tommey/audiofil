@@ -10,7 +10,7 @@
     },
     {
       "label": "Impedance",
-      "value": "32\u03a9"
+      "value": "32Ω"
     },
     {
       "label": "Sensitivity",
@@ -19,6 +19,10 @@
     {
       "label": "Weight",
       "value": "404g"
+    },
+    {
+      "label": "Driver size",
+      "value": "100 x 75 mm"
     }
   ]
 }

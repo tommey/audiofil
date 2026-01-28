@@ -1,7 +1,7 @@
 {
   "rank_key": "beats pro",
   "product_name": "Beats Pro",
-  "page_title": "Beats by Dr. Dre Beats Pro" ,
+  "page_title": "Beats by Dr. Dre Beats Pro",
   "source_url": "https://www.bhphotovideo.com/c/product/795582-REG/Beats_by_Dr_Dre_900_00003_01_Beats_By_Dr_Dre.html",
   "specs": [
     {
@@ -31,6 +31,10 @@
     {
       "label": "Weight",
       "value": "0.4 kg"
+    },
+    {
+      "label": "Driver size",
+      "value": "50 mm"
     }
   ]
 }

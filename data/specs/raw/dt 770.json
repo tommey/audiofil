@@ -4,23 +4,65 @@
   "page_title": "DT 770 PRO - Dynamic Headphones",
   "source_url": "https://global.beyerdynamic.com/api/download/5c0bbf2e8cf2d6aa19e98cde4ab32122/pdf/dt-770-pro-dynamic-headphones-datasheet-en.pdf",
   "specs": [
-    { "label": "Type", "value": "Dynamic headphones, closed" },
-    { "label": "Nominal frequency response", "value": "5 - 35,000 Hz" },
-    { "label": "Nominal impedance", "value": "32 ohms / 80 ohms / 250 ohms" },
-    { "label": "Nominal SPL", "value": "96 dB" },
-    { "label": "THD", "value": "< 0.2%" },
-    { "label": "Power handling capacity", "value": "100 mW" },
-    { "label": "Sound coupling to the ear", "value": "Circumaural" },
-    { "label": "Nominal headband pressure", "value": "Approx. 3.5 N" },
-    { "label": "Weight", "value": "32 ohms version: 325 g; 80 ohms version: 345 g; 250 ohms version: 380 g" },
-    { "label": "Cable", "value": "32 ohms version: 1.6 m straight cable; 80 ohms version: 3 m straight cable; 250 ohms version: 3 m coiled cable" },
+    {
+      "label": "Type",
+      "value": "Dynamic headphones, closed"
+    },
+    {
+      "label": "Nominal frequency response",
+      "value": "5 - 35,000 Hz"
+    },
+    {
+      "label": "Nominal impedance",
+      "value": "32 ohms / 80 ohms / 250 ohms"
+    },
+    {
+      "label": "Nominal SPL",
+      "value": "96 dB"
+    },
+    {
+      "label": "THD",
+      "value": "< 0.2%"
+    },
+    {
+      "label": "Power handling capacity",
+      "value": "100 mW"
+    },
+    {
+      "label": "Sound coupling to the ear",
+      "value": "Circumaural"
+    },
+    {
+      "label": "Nominal headband pressure",
+      "value": "Approx. 3.5 N"
+    },
+    {
+      "label": "Weight",
+      "value": "32 ohms version: 325 g; 80 ohms version: 345 g; 250 ohms version: 380 g"
+    },
+    {
+      "label": "Cable",
+      "value": "32 ohms version: 1.6 m straight cable; 80 ohms version: 3 m straight cable; 250 ohms version: 3 m coiled cable"
+    },
     {
       "label": "Connection",
       "value": "Gold plated mini stereo jack plug (3.5 mm) and adapter 1/4\" (6.35 mm)"
     },
-    { "label": "Ambient noise isolation", "value": "32 ohms version: approx. 20 dBA; 80/250 ohms version: approx. 18 dBA" },
-    { "label": "Standard", "value": "EN 60 268-7" },
-    { "label": "Order #", "value": "32 ohms version: 483.664; 80 ohms version: 474.746; 250 ohms version: 459.046" }
+    {
+      "label": "Ambient noise isolation",
+      "value": "32 ohms version: approx. 20 dBA; 80/250 ohms version: approx. 18 dBA"
+    },
+    {
+      "label": "Standard",
+      "value": "EN 60 268-7"
+    },
+    {
+      "label": "Order #",
+      "value": "32 ohms version: 483.664; 80 ohms version: 474.746; 250 ohms version: 459.046"
+    },
+    {
+      "label": "Driver size",
+      "value": "45 mm"
+    }
   ]
 }
-

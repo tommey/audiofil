@@ -11,6 +11,10 @@
     {
       "label": "Weight",
       "value": "330 g (per DCA archive page snippet)"
+    },
+    {
+      "label": "Driver size",
+      "value": "78 mm"
     }
   ]
 }

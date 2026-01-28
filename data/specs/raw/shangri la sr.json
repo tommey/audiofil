@@ -15,6 +15,10 @@
     {
       "label": "Frequency response",
       "value": "7 Hz - 120 kHz (per listing)"
+    },
+    {
+      "label": "Driver size",
+      "value": "100 x 75 mm"
     }
   ]
 }

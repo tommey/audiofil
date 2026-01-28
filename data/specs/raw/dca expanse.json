@@ -4,12 +4,37 @@
   "page_title": "Dan Clark Audio EXPANSE Open-Back Planar | HeadAmp",
   "source_url": "https://www.headamp.com/products/dan-clark-expanse",
   "specs": [
-    {"label":"Driver","value":"76mm × 51mm single-ended planar magnetic"},
-    {"label":"Driver matching","value":"0.25dB weighted (20–10,000Hz)"},
-    {"label":"THD","value":"< 0.03% (ref. 1kHz at 94dB)"},
-    {"label":"Frequency response","value":"20–20,000 Hz"},
-    {"label":"Weight","value":"418 g"},
-    {"label":"Baffle","value":"Carbon Fiber"},
-    {"label":"Headband","value":"Nickel-Titanium"}
+    {
+      "label": "Driver",
+      "value": "76mm × 51mm single-ended planar magnetic"
+    },
+    {
+      "label": "Driver matching",
+      "value": "0.25dB weighted (20–10,000Hz)"
+    },
+    {
+      "label": "THD",
+      "value": "< 0.03% (ref. 1kHz at 94dB)"
+    },
+    {
+      "label": "Frequency response",
+      "value": "20–20,000 Hz"
+    },
+    {
+      "label": "Weight",
+      "value": "418 g"
+    },
+    {
+      "label": "Baffle",
+      "value": "Carbon Fiber"
+    },
+    {
+      "label": "Headband",
+      "value": "Nickel-Titanium"
+    },
+    {
+      "label": "Driver size",
+      "value": "76 x 51 mm"
+    }
   ]
 }

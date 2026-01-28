@@ -35,6 +35,10 @@
     {
       "label": "Notes",
       "value": "Requires electrostatic energizer/amp; carbon nanotube infused diaphragm"
+    },
+    {
+      "label": "Driver size",
+      "value": "120 x 90 mm"
     }
   ]
 }

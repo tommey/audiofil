@@ -43,6 +43,10 @@
     {
       "label": "Notes",
       "value": "Paired with Aperio electronics featuring dual 32-bit ESS Sabre DACs and reference-grade amp modules"
+    },
+    {
+      "label": "Driver size (equivalent diameter, derived)",
+      "value": "~67.4 mm (derived from effective diaphragm area 3570 mm² assuming circular diaphragm)"
     }
   ]
 }

@@ -43,6 +43,10 @@
     {
       "label": "Input connector",
       "value": "Dual 4-pin mini XLR"
+    },
+    {
+      "label": "Driver size",
+      "value": "102 x 73 mm"
     }
   ]
 }

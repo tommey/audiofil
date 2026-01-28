@@ -368,6 +368,8 @@ const types = Array.from(
         "avg_rank",
         "sources",
         "driver_size_mm",
+        "driver_width_mm",
+        "driver_height_mm",
         "impedance_ohms",
         "sensitivity_db_mw",
         "weight_g",
@@ -389,6 +391,18 @@ const types = Array.from(
       }
 
       function compareValues(a, b, field) {
+        // Driver size can be either a single diameter (driver_size_mm) or W x H (driver_width_mm/driver_height_mm).
+        if (field === "driver_size_mm") {
+          const aVal =
+            a.driver_size_mm ?? Math.max(a.driver_width_mm ?? NaN, a.driver_height_mm ?? NaN);
+          const bVal =
+            b.driver_size_mm ?? Math.max(b.driver_width_mm ?? NaN, b.driver_height_mm ?? NaN);
+
+          if (!Number.isFinite(aVal)) return 1;
+          if (!Number.isFinite(bVal)) return -1;
+          return aVal - bVal;
+        }
+
         const aVal = a[field];
         const bVal = b[field];
 
@@ -436,7 +450,11 @@ const types = Array.from(
             <td data-label="Sources">${row.sources ?? ""}</td>
             <td data-label="Type">${row.type ?? ""}</td>
             <td data-label="Driver">${row.driver_type ?? ""}</td>
-            <td data-label="Driver mm">${row.driver_size_mm ?? ""}</td>
+            <td data-label="Driver mm">${
+              row.driver_width_mm && row.driver_height_mm
+                ? `${row.driver_width_mm} x ${row.driver_height_mm}`
+                : row.driver_size_mm ?? ""
+            }</td>
             <td data-label="Ohms">${row.impedance_ohms ?? ""}</td>
             <td data-label="Sensitivity">${row.sensitivity_db_mw ?? ""}</td>
             <td data-label="Weight g">${row.weight_g ?? ""}</td>

@@ -31,6 +31,10 @@
     {
       "label": "Made in",
       "value": "Germany"
+    },
+    {
+      "label": "Driver size",
+      "value": "45 mm"
     }
   ]
 }

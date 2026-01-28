@@ -14,7 +14,7 @@
     },
     {
       "label": "Impedance",
-      "value": "8\u03a9\u00b115% (@1kHz)"
+      "value": "8Ω±15% (@1kHz)"
     },
     {
       "label": "Frequency range",
@@ -27,6 +27,10 @@
     {
       "label": "Headphone jack",
       "value": "3.5mm"
+    },
+    {
+      "label": "Driver size",
+      "value": "100 x 100 mm"
     }
   ]
 }

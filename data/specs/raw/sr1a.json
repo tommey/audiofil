@@ -11,6 +11,10 @@
     {
       "label": "Note",
       "value": "Requires interface/amp; specs vary depending on interface."
+    },
+    {
+      "label": "Driver size",
+      "value": "20 mm (ribbon width)"
     }
   ]
 }

@@ -19,6 +19,10 @@
     {
       "label": "Cable",
       "value": "Straight, Dual Entry, 4ft standard 3.5mm"
+    },
+    {
+      "label": "Driver size",
+      "value": "35 mm"
     }
   ]
 }

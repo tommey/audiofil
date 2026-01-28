@@ -1,5 +1,5 @@
 {
-  "page_title": "Valkyria Titanium \u2013 Spirit Torino",
+  "page_title": "Valkyria Titanium – Spirit Torino",
   "product_name": "Spirit Torino Valkyria",
   "rank_key": "valkyria",
   "source_url": "https://www.spirittorino.com/en-us/products/valkyria-titanium",
@@ -35,6 +35,10 @@
     {
       "label": "Weight",
       "value": "620 g"
+    },
+    {
+      "label": "Driver size",
+      "value": "50 mm"
     }
   ]
 }

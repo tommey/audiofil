@@ -39,6 +39,10 @@
     {
       "label": "Weight",
       "value": "550 g (without cable); 610 g (with SPC cable)"
+    },
+    {
+      "label": "Driver size",
+      "value": "100 x 100 mm"
     }
   ]
 }

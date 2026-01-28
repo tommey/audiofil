@@ -39,6 +39,10 @@
     {
       "label": "Headband",
       "value": "Stainless spring head belt"
+    },
+    {
+      "label": "Driver size",
+      "value": "57 mm"
     }
   ]
 }

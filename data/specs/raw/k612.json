@@ -31,6 +31,10 @@
     {
       "label": "Connector",
       "value": "3.5 mm (1/8\") + 6.35 mm adapter"
+    },
+    {
+      "label": "Driver size",
+      "value": "50 mm"
     }
   ]
 }

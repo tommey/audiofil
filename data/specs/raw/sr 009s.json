@@ -31,6 +31,10 @@
     {
       "label": "Mass",
       "value": "454 g (including cable)"
+    },
+    {
+      "label": "Driver size",
+      "value": "105 mm (approx diaphragm diameter)"
     }
   ]
 }

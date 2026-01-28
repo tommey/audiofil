@@ -18,7 +18,7 @@
     },
     {
       "label": "Contact pressure",
-      "value": "4.3 N \u00b1 0.3 N"
+      "value": "4.3 N ± 0.3 N"
     },
     {
       "label": "Frequency characteristic",
@@ -26,7 +26,7 @@
     },
     {
       "label": "Frequency response",
-      "value": "8 \u2013 80,000 Hz (-3 dB); 4 \u2013 100,000 Hz (-10 dB)"
+      "value": "8 – 80,000 Hz (-3 dB); 4 – 100,000 Hz (-10 dB)"
     },
     {
       "label": "Max sound pressure level",
@@ -55,6 +55,10 @@
     {
       "label": "Weight (without cable)",
       "value": "approx. 550 g"
+    },
+    {
+      "label": "Driver size",
+      "value": "Not specified by manufacturer in available public specs"
     }
   ]
 }

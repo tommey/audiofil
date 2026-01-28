@@ -19,6 +19,10 @@
     {
       "label": "Sensitivity",
       "value": "97 dB"
+    },
+    {
+      "label": "Driver size",
+      "value": "42 mm"
     }
   ]
 }

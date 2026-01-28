@@ -63,7 +63,10 @@
     {
       "label": "Included accessories",
       "value": "1.8 m cable; 3 m cable; 6.35 mm adapter; drawstring bag"
+    },
+    {
+      "label": "Driver size",
+      "value": "45 mm"
     }
   ]
 }
-

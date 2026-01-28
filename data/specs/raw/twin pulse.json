@@ -31,6 +31,10 @@
     {
       "label": "Cable",
       "value": "2.2 m fixed welded silver cable"
+    },
+    {
+      "label": "Driver size",
+      "value": "50 mm"
     }
   ]
 }

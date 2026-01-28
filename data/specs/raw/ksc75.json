@@ -23,6 +23,10 @@
     {
       "label": "Plug",
       "value": "3.5 mm (1/8\")"
+    },
+    {
+      "label": "Driver size",
+      "value": "35 mm"
     }
   ]
 }

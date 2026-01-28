@@ -23,6 +23,10 @@
     {
       "label": "Weight",
       "value": "455 g (w/o cable)"
+    },
+    {
+      "label": "Driver size",
+      "value": "50 mm"
     }
   ]
 }

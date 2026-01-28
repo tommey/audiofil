@@ -31,6 +31,10 @@
     {
       "label": "Cable & plug",
       "value": "Coiled connecting cable (3.0 m) & gold-plated stereo jack plug (3.5 mm) + adapter (6.35 mm)"
+    },
+    {
+      "label": "Driver size",
+      "value": "45 mm"
     }
   ]
 }

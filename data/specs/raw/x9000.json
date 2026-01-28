@@ -31,6 +31,10 @@
     {
       "label": "Mass",
       "value": "390 g (without cable)"
+    },
+    {
+      "label": "Driver size",
+      "value": "~115 mm (derived; ~20% larger diaphragm area vs SR-009S)"
     }
   ]
 }

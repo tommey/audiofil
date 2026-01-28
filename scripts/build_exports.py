@@ -18,6 +18,8 @@ REQUIRED_SPECS_COLUMNS = {
     "type",
     "driver_type",
     "driver_size_mm",
+    "driver_width_mm",
+    "driver_height_mm",
     "impedance_ohms",
     "sensitivity_db_mw",
     "frequency_response_hz",
@@ -33,6 +35,8 @@ REQUIRED_SPECS_COLUMNS = {
 
 NUMERIC_FIELDS = {
     "driver_size_mm",
+    "driver_width_mm",
+    "driver_height_mm",
     "impedance_ohms",
     "sensitivity_db_mw",
     "weight_g",
