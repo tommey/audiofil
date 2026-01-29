@@ -15,6 +15,14 @@
     {
       "label": "Driver size",
       "value": "78 mm"
+    },
+    {
+      "label": "Impedance",
+      "value": "N/A - Electrostatic headphones don't have traditional impedance specs; STAX Pro Bias (580V) compatible"
+    },
+    {
+      "label": "Frequency response (bass)",
+      "value": "Flat to 6 Hz; extends to 10Hz -3dB"
     }
   ]
 }

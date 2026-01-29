@@ -39,6 +39,14 @@
     {
       "label": "Impedance (measured avg 40Hz-15kHz)",
       "value": "~19.5 ohm (avg; L 18.7 / R 20.2)"
+    },
+    {
+      "label": "Frequency response",
+      "value": "20 Hz minimum (upper limit not specified)"
+    },
+    {
+      "label": "Sensitivity (measured)",
+      "value": "117.9 dB SPL"
     }
   ]
 }

@@ -27,6 +27,14 @@
     {
       "label": "Notes",
       "value": "AMTS (Acoustic Metamaterial Tuning System), self-adjusting headband, re-engineered 88mm driver"
+    },
+    {
+      "label": "Impedance",
+      "value": "N/A - Electrostatic headphones use capacitance (135 pF with 2m cable); operates at 580V Pro Bias standard"
+    },
+    {
+      "label": "Bias Voltage",
+      "value": "580V DC (STAX Pro Bias compatible)"
     }
   ]
 }

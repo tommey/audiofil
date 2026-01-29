@@ -59,6 +59,14 @@
     {
       "label": "Driver size",
       "value": "Not specified by manufacturer in available public specs"
+    },
+    {
+      "label": "Impedance",
+      "value": "N/A - Electrostatic headphones with integrated Class A MOS-FET amplifiers in ear cups; no traditional impedance rating"
+    },
+    {
+      "label": "Diaphragm thickness",
+      "value": "2.4 micrometers (platinum-vaporized)"
     }
   ]
 }

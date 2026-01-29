@@ -47,6 +47,10 @@
     {
       "label": "Driver size (equivalent diameter, derived)",
       "value": "~67.4 mm (derived from effective diaphragm area 3570 mm² assuming circular diaphragm)"
+    },
+    {
+      "label": "Impedance",
+      "value": "N/A - Electrostatic headphones don't have traditional impedance specs; requires integrated energizer/amplifier system"
     }
   ]
 }

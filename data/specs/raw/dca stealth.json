@@ -35,6 +35,18 @@
     {
       "label": "Driver size",
       "value": "76 x 51 mm"
+    },
+    {
+      "label": "Frequency response",
+      "value": "20-20,000 Hz"
+    },
+    {
+      "label": "THD",
+      "value": "<0.03% 20-20kHz"
+    },
+    {
+      "label": "Tuning",
+      "value": "Harman curve"
     }
   ]
 }

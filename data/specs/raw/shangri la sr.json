@@ -19,6 +19,14 @@
     {
       "label": "Driver size",
       "value": "100 x 75 mm"
+    },
+    {
+      "label": "Impedance",
+      "value": "N/A - Electrostatic headphones don't have traditional impedance specs"
+    },
+    {
+      "label": "Bias voltage range",
+      "value": "550-650V DC"
     }
   ]
 }

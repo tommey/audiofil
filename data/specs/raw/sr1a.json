@@ -19,6 +19,10 @@
     {
       "label": "Impedance (HeadAmp spec)",
       "value": "0.2 ohms (with cabling)"
+    },
+    {
+      "label": "Weight",
+      "value": "425 g (15 oz)"
     }
   ]
 }

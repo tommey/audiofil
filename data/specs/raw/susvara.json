@@ -31,6 +31,14 @@
     {
       "label": "Driver size",
       "value": "100 x 75 mm"
+    },
+    {
+      "label": "Frequency response",
+      "value": "6Hz – 75kHz"
+    },
+    {
+      "label": "Driver technology",
+      "value": "Nanometer-grade diaphragm with stealth magnets"
     }
   ]
 }

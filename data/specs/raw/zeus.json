@@ -31,6 +31,10 @@
     {
       "label": "Weight",
       "value": "about 380g"
+    },
+    {
+      "label": "Frequency response",
+      "value": "10Hz - 40kHz"
     }
   ]
 }

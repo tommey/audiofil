@@ -51,6 +51,10 @@
     {
       "label": "HPL Cable",
       "value": "Connects TI-1b to 4-Pin XLR Headphone Amplifier Output"
+    },
+    {
+      "label": "Weight",
+      "value": "444 g (user measurement from Head-Fi)"
     }
   ]
 }
